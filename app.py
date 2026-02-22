@@ -3,6 +3,24 @@ import streamlit as st
 import pandas as pd
 import plotly.express as px
 
+st.set_page_config(page_title="NordTech Dashboard", layout="wide")
+
+hide_st_style = """
+            <style>
+            #MainMenu {visibility: hidden;}
+            footer {visibility: hidden;}
+            header {visibility: hidden;}
+            </style>
+            """
+st.markdown(hide_st_style, unsafe_allow_html=True)
+
+# Ko dara augstāk pievienota koda daļa:
+# 
+# - **#MainMenu {visibility: hidden;}** — paslēpj izvēlni (trīs svītriņas) augšējā labajā stūrī.
+# - **footer {visibility: hidden;}** — noņem uzrakstu "Made with Streamlit" apakšā.
+# - **header {visibility: hidden;}** — noņem augšējo krāsaino joslu.
+
+
 # ================================================================
 # LIETOŠANAS INSTRUKCIJA / ИНСТРУKЦИЯ ПО ЗАПУСКУ
 # ================================================================
