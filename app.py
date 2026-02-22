@@ -10,6 +10,9 @@ hide_st_style = """
             #MainMenu {visibility: hidden;}
             footer {visibility: hidden;}
             header {visibility: hidden;}
+            /* Попытка скрыть плашку хостинга */
+            .stAppHeader {background-color: rgba(0,0,0,0); color: rgba(0,0,0,0);}
+            .st-emotion-cache-zq5tm9 {display: none !important;} 
             </style>
             """
 st.markdown(hide_st_style, unsafe_allow_html=True)
