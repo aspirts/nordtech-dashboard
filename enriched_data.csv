@@ -1,0 +1,1182 @@
+Transaction_ID,Date,Customer_ID,Product_Category,Product_Name,Price,Quantity,Payment_Status,Return_ID,Original_Tx_ID,Return_Date,Refund_Amount,Status,Clean_Tx_ID,Is_Returned,Extracted_Order_ID,Issue_Category,Month_Day
+100236.0,2023-11-24,C0012,Electronics,Smartphone Z,919.2,1,Paid,,,,,,,0,,Nav sūdzību,2023-11-24
+100061.0,2023-11-17,C0002,Electronics,Laptop X,1598.23,1,Paid,,,,,,,0,,Nav sūdzību,2023-11-17
+101131.0,2023-12-14,C0008,Smart Home,NordPlug,23.86,1,Paid,,,,,,,0,101131.0,Produkta brāķis,2023-12-14
+100391.0,,C0001,Smart Home,NordTherm,101.68,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+100319.0,2023-11-27,C0004,Accessories,Phone Case,35.72,1,Paid,,,,,,,0,,Nav sūdzību,2023-11-27
+100889.0,2023-12-09,C0001,Electronics,NoiseCancel Headphones,230.36,1,Paid,,,,,,,0,,Nav sūdzību,2023-12-09
+100105.0,2023-11-19,C0056,Smart Home,NordCam Mini,82.4,1,Paid,,,,,,,0,,Nav sūdzību,2023-11-19
+100603.0,2023-12-04,C0002,Electronics,Laptop X,1771.94,1,Paid,,,,,,,0,,Nav sūdzību,2023-12-04
+101189.0,2023-11-28,C0001,Smart Home,NordLock Pro,210.88,1,Paid,,,,,,,0,,Nav sūdzību,2023-11-28
+100563.0,2023-12-03,C0008,Electronics,Smartphone Z,855.14,1,Paid,R000001,Ref: 100563,2023-12-15,855.14,Processed,100563.0,1,,Nav sūdzību,2023-12-03
+100366.0,2023-11-28,C0004,Electronics,Smartphone Z,1024.64,1,Paid,,,,,,,0,,Nav sūdzību,2023-11-28
+100996.0,2023-12-12,C0003,Smart Home,NordLock Pro,222.61,1,Paid,,,,,,,0,,Nav sūdzību,2023-12-12
+100043.0,,C0002,Electronics,TV Pro,1164.3,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+100725.0,2023-12-06,C0003,Accessories,Laptop Sleeve,27.13,2,Paid,,,,,,,0,,Nav sūdzību,2023-12-06
+100456.0,2023-11-30,C0001,Smart Home,NordTherm,105.45,1,Paid,,,,,,,0,,Nav sūdzību,2023-11-30
+100537.0,2023-12-02,C0030,Electronics,NoiseCancel Headphones,290.46,1,Paid,,,,,,,0,100537.0,Piegāde,2023-12-02
+101176.0,2023-11-24,C0017,Accessories,Phone Case,34.84,1,Paid,,,,,,,0,,Nav sūdzību,2023-11-24
+101058.0,2023-12-13,C0001,Electronics,Laptop X,1504.82,1,Paid,,,,,,,0,,Nav sūdzību,2023-12-13
+100032.0,2023-11-16,C0094,Electronics,Laptop X,1585.05,1,Paid,,,,,,,0,,Nav sūdzību,2023-11-16
+100455.0,2023-11-30,C0117,Smart Home,NordLock Pro,205.04,2,Paid,,,,,,,0,100455.0,Cits,2023-11-30
+100354.0,2023-11-28,C0002,Smart Home,NordLock Pro,201.09,1,Paid,,,,,,,0,,Nav sūdzību,2023-11-28
+101181.0,,C0006,Accessories,Accessory Bundle,27.11,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+100062.0,,C0001,Smart Home,NordLock Pro,221.97,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+100858.0,,C0001,Electronics,TV Pro,1060.25,1,Failed,,,,,,,0,,Nav sūdzību,NaT
+101049.0,2023-12-13,C0001,Electronics,NoiseCancel Headphones,288.0,1,Paid,,,,,,,0,,Nav sūdzību,2023-12-13
+100686.0,2023-12-05,C0059,Electronics,Tablet A,753.9,1,Paid,,,,,,,0,100686.0,Produkta brāķis,2023-12-05
+100233.0,,C0278,Electronics,TV Pro,1041.16,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+100094.0,2023-11-18,C0076,Accessories,Charger,28.32,3,Paid,,,,,,,0,,Nav sūdzību,2023-11-18
+100215.0,,C0063,Electronics,Smartphone Z,1077.99,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+100310.0,2023-11-26,C0002,Electronics,TV Pro,1601.36,1,Paid,,,,,,,0,,Nav sūdzību,2023-11-26
+100202.0,2023-11-23,C0002,Smart Home,NordLock Pro,186.48,1,Pending,,,,,,,0,,Nav sūdzību,2023-11-23
+100290.0,2023-11-25,C0002,Accessories,Phone Case,12.32,1,Paid,,,,,,,0,,Nav sūdzību,2023-11-25
+100737.0,2023-12-06,C0015,Electronics,Tablet A,672.16,1,Paid,,,,,,,0,,Nav sūdzību,2023-12-06
+100318.0,2023-11-27,C0005,Electronics,Smartphone Z,727.66,1,Paid,,,,,,,0,,Nav sūdzību,2023-11-27
+101141.0,,C0038,Accessories,Accessory Bundle,55.24,3,Paid,,,,,,,0,,Nav sūdzību,NaT
+100891.0,2023-12-09,C0008,Smart Home,NordLock Pro,212.31,2,Paid,,,,,,,0,,Nav sūdzību,2023-12-09
+101188.0,2023-12-10,C0062,Accessories,Wireless Mouse,32.09,1,Paid,,,,,,,0,,Nav sūdzību,2023-12-10
+100096.0,2023-11-18,C0001,Electronics,NoiseCancel Headphones,166.52,1,Paid,,,,,,,0,,Nav sūdzību,2023-11-18
+100880.0,2023-12-09,C0001,Smart Home,NordLock Pro,231.5,1,Paid,,,,,,,0,,Nav sūdzību,2023-12-09
+100070.0,2023-11-17,C0124,Accessories,Accessory Bundle,86.79,1,Paid,,,,,,,0,100070.0,Produkta brāķis,2023-11-17
+100797.0,,C0097,Electronics,Tablet A,583.65,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+100721.0,2023-12-06,C0085,Smart Home,NordLock Pro,200.26,1,Paid,,,,,,,0,100721.0,Produkta brāķis,2023-12-06
+100796.0,2023-12-07,C0145,Accessories,Wireless Mouse,43.57,1,Paid,,,,,,,0,100796.0,Piegāde,2023-12-07
+100353.0,,C0010,Electronics,NoiseCancel Headphones,297.95,1,Failed,,,,,,,0,,Nav sūdzību,NaT
+100352.0,2023-11-28,C0013,Electronics,Laptop X,1343.0,1,Paid,,,,,,,0,,Nav sūdzību,2023-11-28
+100551.0,,C0200,Electronics,Tablet A,445.23,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+100404.0,2023-11-29,C0017,Smart Home,NordTherm,83.85,1,Paid,,,,,,,0,,Nav sūdzību,2023-11-29
+100715.0,,C0002,Electronics,NoiseCancel Headphones,330.75,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+100431.0,,C0310,Smart Home,NordLock Pro,193.31,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+100608.0,2023-12-04,C0024,Smart Home,NordTherm,81.21,1,Paid,,,,,,,0,,Nav sūdzību,2023-12-04
+100648.0,2023-12-05,C0024,Electronics,Smartphone Z,834.38,1,Paid,,,,,,,0,,Nav sūdzību,2023-12-05
+100623.0,,C0002,Accessories,Laptop Sleeve,43.96,2,Paid,,,,,,,0,,Nav sūdzību,NaT
+100341.0,2023-11-27,C0006,Electronics,NoiseCancel Headphones,300.7,2,Paid,,,,,,,0,,Nav sūdzību,2023-11-27
+100742.0,2023-12-07,C0001,Accessories,USB-C Cable,10.69,4,Paid,,,,,,,0,,Nav sūdzību,2023-12-07
+100873.0,2023-12-09,C0004,Electronics,Smartphone Z,863.18,1,Paid,,,,,,,0,,Nav sūdzību,2023-12-09
+100078.0,,C0007,Electronics,Tablet A,527.12,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+101143.0,2023-12-10,C0001,Electronics,TV Pro,970.6,1,Paid,,,,,,,0,,Nav sūdzību,2023-12-10
+100910.0,,C0006,Smart Home,NordLock Pro,181.92,1,Failed,,,,,,,0,,Nav sūdzību,NaT
+100432.0,2023-11-29,C0006,Smart Home,NordLock Pro,187.29,1,Failed,,,,,,,0,,Nav sūdzību,2023-11-29
+100272.0,,C0003,Electronics,TV Pro,1118.62,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+100081.0,,C0091,Electronics,Tablet A,372.51,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+100280.0,2023-11-25,C0002,Accessories,Charger,39.36,1,Paid,,,,,,,0,,Nav sūdzību,2023-11-25
+100837.0,,C0006,Electronics,Tablet A,702.29,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+100506.0,2023-12-01,C0057,Accessories,Screen Protector,7.12,1,Paid,,,,,,,0,100506.0,Produkta brāķis,2023-12-01
+100364.0,2023-11-28,C0003,Electronics,TV Pro,1094.93,1,Paid,,,,,,,0,,Nav sūdzību,2023-11-28
+101173.0,2023-12-07,C0002,Electronics,Tablet A,636.8,1,Paid,,,,,,,0,,Nav sūdzību,2023-12-07
+100612.0,2023-12-04,C0052,Accessories,Charger,35.09,3,Pending,,,,,,,0,,Nav sūdzību,2023-12-04
+100040.0,2023-11-16,C0238,Electronics,Laptop X,1653.4,1,Paid,,,,,,,0,,Nav sūdzību,2023-11-16
+101085.0,2023-12-13,C0038,Smart Home,NordCam Mini,91.86,2,Paid,,,,,,,0,,Nav sūdzību,2023-12-13
+100412.0,,C0053,Electronics,TV Pro,1261.41,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+100278.0,,C0181,Smart Home,NordLock Pro,247.91,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+101101.0,2023-12-14,C0004,Smart Home,NordLock Pro,211.15,1,Paid,,,,,,,0,101101.0,Piegāde,2023-12-14
+100565.0,2023-12-03,C0005,Smart Home,NordLock Pro,185.0,1,Paid,,,,,,,0,,Nav sūdzību,2023-12-03
+100827.0,2023-12-08,C0013,Electronics,Tablet A,665.07,1,Paid,R000002,TX-100827,2023-12-20,665.07,Processed,100827.0,1,,Nav sūdzību,2023-12-08
+100561.0,,C0002,Electronics,Tablet A,771.78,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+101183.0,,C0170,Accessories,Charger,30.35,2,Paid,,,,,,,0,,Nav sūdzību,NaT
+100426.0,2023-11-29,C0031,Accessories,Screen Protector,8.99,2,Failed,,,,,,,0,,Nav sūdzību,2023-11-29
+100345.0,2023-11-27,C0250,Electronics,TV Pro,1536.64,1,Paid,,,,,,,0,,Nav sūdzību,2023-11-27
+100998.0,,C0001,Accessories,Laptop Sleeve,23.36,1,Failed,,,,,,,0,,Nav sūdzību,NaT
+101047.0,2023-12-13,C0023,Electronics,Tablet A,441.24,1,Paid,,,,,,,0,101047.0,Produkta brāķis,2023-12-13
+100471.0,2023-11-30,C0019,Smart Home,NordLock Pro,180.99,1,Paid,,,,,,,0,,Nav sūdzību,2023-11-30
+100303.0,2023-11-26,C0003,Smart Home,NordLock Pro,224.82,1,Paid,,,,,,,0,,Nav sūdzību,2023-11-26
+101002.0,,C0008,Electronics,Tablet A,318.91,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+100570.0,2023-12-03,C0001,Accessories,Laptop Sleeve,19.23,1,Paid,,,,,,,0,,Nav sūdzību,2023-12-03
+100058.0,2023-11-17,C0031,Electronics,TV Pro,914.97,1,Paid,,,,,,,0,,Nav sūdzību,2023-11-17
+100395.0,2023-11-29,C0169,Electronics,NoiseCancel Headphones,180.76,1,Paid,,,,,,,0,100395.0,Piegāde,2023-11-29
+100093.0,2023-11-18,C0004,Electronics,Smartphone Z,894.13,1,Paid,,,,,,,0,,Nav sūdzību,2023-11-18
+100798.0,2023-12-08,C0004,Accessories,Laptop Sleeve,41.56,1,Paid,,,,,,,0,,Nav sūdzību,2023-12-08
+100573.0,2023-12-03,C0008,Electronics,Laptop X,1597.38,1,Paid,,,,,,,0,,Nav sūdzību,2023-12-03
+100484.0,2023-12-01,C0137,Smart Home,NordCam Mini,80.0,1,Paid,,,,,,,0,100484.0,Piegāde,2023-12-01
+100261.0,2023-11-25,C0010,Electronics,NoiseCancel Headphones,258.75,1,Paid,R000003,Ref: 100261,2023-12-07,258.75,Processed,100261.0,1,100261.0,Piegāde,2023-11-25
+100084.0,2023-11-18,C0001,Accessories,Wireless Mouse,56.31,1,Paid,,,,,,,0,,Nav sūdzību,2023-11-18
+100592.0,2023-12-03,C0024,Smart Home,NordLock Pro,189.75,1,Paid,,,,,,,0,,Nav sūdzību,2023-12-03
+100003.0,2023-11-15,C0059,Electronics,Laptop X,1446.04,1,Paid,,,,,,,0,,Nav sūdzību,2023-11-15
+100042.0,2023-11-16,C0002,Accessories,Charger,18.8,3,Paid,,,,,,,0,,Nav sūdzību,2023-11-16
+100327.0,2023-11-27,C0002,Electronics,Laptop X,1437.5,1,Paid,,,,,,,0,,Nav sūdzību,2023-11-27
+100087.0,,C0002,Accessories,Accessory Bundle,32.79,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+100457.0,,C0010,Accessories,Screen Protector,5.0,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+100965.0,2023-12-11,C0279,Accessories,Screen Protector,12.26,1,Paid,,,,,,,0,100965.0,Piegāde,2023-12-11
+101028.0,2023-12-12,C0044,Accessories,Wireless Mouse,31.71,1,Paid,,,,,,,0,101028.0,Lietotnes/Savienojuma kļūda,2023-12-12
+100731.0,,C0002,Electronics,TV Pro,1405.31,2,Paid,,,,,,,0,,Nav sūdzību,NaT
+100852.0,,C0113,Accessories,USB-C Cable,18.62,2,Paid,,,,,,,0,,Nav sūdzību,NaT
+100916.0,2023-12-10,C0003,Electronics,Laptop X,1608.63,1,Paid,,,,,,,0,,Nav sūdzību,2023-12-10
+101071.0,2023-12-13,C0013,Accessories,Wireless Mouse,26.47,2,Paid,,,,,,,0,101071.0,Piegāde,2023-12-13
+101160.0,2023-11-25,C0004,Accessories,Phone Case,19.93,2,Paid,,,,,,,0,,Nav sūdzību,2023-11-25
+100108.0,,C0008,Smart Home,NordPlug,24.89,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+100690.0,2023-12-06,C0003,Smart Home,NordLock Pro,192.91,1,Paid,,,,,,,0,,Nav sūdzību,2023-12-06
+100986.0,2023-12-11,C0178,Accessories,Charger,45.19,4,Paid,,,,,,,0,100986.0,Piegāde,2023-12-11
+100747.0,,C0006,Accessories,Screen Protector,11.32,4,Paid,,,,,,,0,,Nav sūdzību,NaT
+101059.0,2023-12-13,C0002,Smart Home,NordLock Pro,202.54,1,Paid,,,,,,,0,,Nav sūdzību,2023-12-13
+101184.0,2023-11-28,C0001,Smart Home,NordLock Pro,210.88,1,Paid,,,,,,,0,,Nav sūdzību,2023-11-28
+100165.0,,C0001,Electronics,Smartphone Z,771.06,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+100779.0,2023-12-07,C0001,Electronics,TV Pro,916.41,1,Paid,,,,,,,0,,Nav sūdzību,2023-12-07
+100039.0,2023-11-16,C0003,Accessories,Accessory Bundle,91.93,2,Paid,,,,,,,0,,Nav sūdzību,2023-11-16
+100149.0,2023-11-21,C0001,Electronics,Tablet A,475.44,1,Paid,,,,,,,0,,Nav sūdzību,2023-11-21
+100068.0,,C0004,Accessories,Accessory Bundle,84.63,2,Paid,,,,,,,0,,Nav sūdzību,NaT
+100260.0,2023-11-25,C0003,Electronics,Smartphone Z,706.61,2,Paid,,,,,,,0,,Nav sūdzību,2023-11-25
+100558.0,,C0008,Electronics,Tablet A,356.42,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+100184.0,,C0028,Smart Home,NordLock Pro,210.27,2,Paid,,,,,,,0,,Nav sūdzību,NaT
+101079.0,,C0003,Accessories,Charger,40.81,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+101094.0,2023-12-14,C0030,Electronics,Laptop X,1326.3,2,Paid,,,,,,,0,101094.0,Produkta brāķis,2023-12-14
+100944.0,2023-12-11,C0289,Electronics,NoiseCancel Headphones,157.39,1,Paid,,,,,,,0,,Nav sūdzību,2023-12-11
+100617.0,2023-12-04,C0002,Electronics,Tablet A,351.21,1,Paid,,,,,,,0,,Nav sūdzību,2023-12-04
+100136.0,,C0256,Smart Home,NordTherm,85.0,2,Paid,,,,,,,0,,Nav sūdzību,NaT
+100974.0,2023-12-11,C0031,Accessories,Accessory Bundle,68.13,3,Paid,,,,,,,0,100974.0,Produkta brāķis,2023-12-11
+100955.0,2023-12-11,C0002,Accessories,Screen Protector,5.43,1,Paid,,,,,,,0,,Nav sūdzību,2023-12-11
+101060.0,2023-12-13,C0001,Electronics,TV Pro,1293.65,1,Paid,,,,,,,0,,Nav sūdzību,2023-12-13
+100726.0,2023-12-06,C0001,Electronics,NoiseCancel Headphones,302.52,1,Paid,,,,,,,0,,Nav sūdzību,2023-12-06
+101151.0,2023-12-11,C0007,Accessories,Accessory Bundle,44.45,1,Paid,,,,,,,0,,Nav sūdzību,2023-12-11
+100861.0,2023-12-09,C0046,Smart Home,NordLock Pro,201.0,1,Paid,,,,,,,0,100861.0,Produkta brāķis,2023-12-09
+100329.0,2023-11-27,C0001,Accessories,Phone Case,12.21,2,Paid,,,,,,,0,,Nav sūdzību,2023-11-27
+100312.0,,C0148,Electronics,Laptop X,1691.9,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+100377.0,2023-11-28,C0009,Accessories,USB-C Cable,19.51,1,Paid,,,,,,,0,,Nav sūdzību,2023-11-28
+100639.0,,C0042,Smart Home,NordLock Pro,223.67,2,Paid,,,,,,,0,,Nav sūdzību,NaT
+101098.0,2023-12-14,C0001,Accessories,Charger,22.04,1,Paid,,,,,,,0,,Nav sūdzību,2023-12-14
+100173.0,,C0008,Electronics,Smartphone Z,1043.81,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+100883.0,2023-12-09,C0002,Electronics,Laptop X,1389.38,1,Paid,,,,,,,0,,Nav sūdzību,2023-12-09
+100560.0,,C0196,Electronics,Smartphone Z,840.55,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+100289.0,2023-11-25,C0005,Smart Home,NordLock Pro,249.63,2,Paid,,,,,,,0,,Nav sūdzību,2023-11-25
+100294.0,,C0002,Accessories,USB-C Cable,13.57,2,Paid,,,,,,,0,,Nav sūdzību,NaT
+100435.0,2023-11-29,C0008,Accessories,Screen Protector,8.41,3,Paid,,,,,,,0,,Nav sūdzību,2023-11-29
+101154.0,2023-12-11,C0015,Smart Home,NordLock Pro,241.95,1,Paid,,,,,,,0,,Nav sūdzību,2023-12-11
+100666.0,,C0001,Accessories,Laptop Sleeve,22.57,4,Paid,,,,,,,0,,Nav sūdzību,NaT
+100270.0,,C0031,Accessories,Laptop Sleeve,17.02,2,Paid,,,,,,,0,,Nav sūdzību,NaT
+101087.0,2023-12-14,C0009,Electronics,Tablet A,484.26,1,Paid,,,,,,,0,,Nav sūdzību,2023-12-14
+100321.0,2023-11-27,C0004,Accessories,Accessory Bundle,51.76,1,Paid,,,,,,,0,,Nav sūdzību,2023-11-27
+100462.0,2023-11-30,C0009,Electronics,Laptop X,1389.57,1,Paid,,,,,,,0,,Nav sūdzību,2023-11-30
+100370.0,2023-11-28,C0217,Accessories,USB-C Cable,19.89,2,Failed,,,,,,,0,,Nav sūdzību,2023-11-28
+100218.0,2023-11-23,C0004,Electronics,Smartphone Z,989.29,2,Paid,,,,,,,0,,Nav sūdzību,2023-11-23
+100083.0,,C0002,Smart Home,NordLock Pro,215.0,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+100273.0,2023-11-25,C0002,Electronics,Laptop X,1374.89,1,Paid,,,,,,,0,,Nav sūdzību,2023-11-25
+100637.0,2023-12-04,C0003,Electronics,Smartphone Z,713.0,1,Paid,,,,,,,0,,Nav sūdzību,2023-12-04
+101103.0,2023-12-14,C0103,Accessories,Accessory Bundle,63.95,1,Paid,,,,,,,0,101103.0,Produkta brāķis,2023-12-14
+100178.0,2023-11-22,C0025,Electronics,NoiseCancel Headphones,252.35,1,Paid,,,,,,,0,,Nav sūdzību,2023-11-22
+100593.0,2023-12-03,C0297,Accessories,Laptop Sleeve,27.83,1,Paid,,,,,,,0,,Nav sūdzību,2023-12-03
+100410.0,2023-11-29,C0026,Accessories,Accessory Bundle,35.78,1,Pending,,,,,,,0,,Nav sūdzību,2023-11-29
+100401.0,2023-11-29,C0017,Accessories,Phone Case,10.0,1,Paid,,,,,,,0,,Nav sūdzību,2023-11-29
+100438.0,2023-11-30,C0010,Accessories,Charger,20.58,1,Paid,,,,,,,0,,Nav sūdzību,2023-11-30
+100600.0,,C0043,Accessories,Phone Case,32.88,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+100753.0,2023-12-07,C0040,Electronics,Tablet A,436.32,1,Paid,,,,,,,0,100753.0,Produkta brāķis,2023-12-07
+100765.0,2023-12-07,C0080,Electronics,Laptop X,1361.87,1,Paid,,,,,,,0,,Nav sūdzību,2023-12-07
+100782.0,2023-12-07,C0001,Smart Home,NordLock Pro,201.0,2,Paid,,,,,,,0,,Nav sūdzību,2023-12-07
+101064.0,,C0002,Accessories,Phone Case,16.39,3,Paid,,,,,,,0,,Nav sūdzību,NaT
+100477.0,,C0001,Smart Home,NordLock Pro,195.76,1,Pending,,,,,,,0,,Nav sūdzību,NaT
+100936.0,2023-12-11,C0151,Electronics,TV Pro,1641.8,1,Paid,,,,,,,0,100936.0,Piegāde,2023-12-11
+100489.0,2023-12-01,C0015,Electronics,Tablet A,559.0,2,Paid,,,,,,,0,,Nav sūdzību,2023-12-01
+100238.0,2023-11-24,C0270,Accessories,USB-C Cable,17.0,1,Paid,,,,,,,0,,Nav sūdzību,2023-11-24
+100026.0,,C0091,Electronics,NoiseCancel Headphones,192.39,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+100244.0,2023-11-24,C0002,Electronics,NoiseCancel Headphones,229.51,1,Paid,,,,,,,0,,Nav sūdzību,2023-11-24
+100828.0,2023-12-08,C0001,Accessories,Screen Protector,13.81,2,Paid,,,,,,,0,,Nav sūdzību,2023-12-08
+100976.0,2023-12-11,C0008,Electronics,Tablet A,365.96,1,Paid,,,,,,,0,100976.0,Cits,2023-12-11
+100427.0,2023-11-29,C0001,Electronics,TV Pro,1187.16,1,Paid,,,,,,,0,,Nav sūdzību,2023-11-29
+100023.0,,C0016,Accessories,Accessory Bundle,30.78,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+100256.0,2023-11-24,C0002,Smart Home,NordLock Pro,235.74,1,Paid,,,,,,,0,,Nav sūdzību,2023-11-24
+100293.0,2023-11-25,C0001,Accessories,Charger,40.76,1,Paid,,,,,,,0,,Nav sūdzību,2023-11-25
+100811.0,2023-12-08,C0008,Electronics,NoiseCancel Headphones,161.34,1,Paid,,,,,,,0,,Nav sūdzību,2023-12-08
+100295.0,2023-11-25,C0001,Electronics,Smartphone Z,789.49,1,Paid,,,,,,,0,,Nav sūdzību,2023-11-25
+100785.0,2023-12-07,C0034,Electronics,Smartphone Z,1072.68,1,Paid,,,,,,,0,,Nav sūdzību,2023-12-07
+100122.0,2023-11-20,C0113,Accessories,Phone Case,33.56,1,Paid,,,,,,,0,100122.0,Lietotnes/Savienojuma kļūda,2023-11-20
+100807.0,2023-12-08,C0007,Accessories,USB-C Cable,12.72,1,Paid,,,,,,,0,,Nav sūdzību,2023-12-08
+100953.0,2023-12-11,C0015,Smart Home,NordLock Pro,241.95,1,Paid,,,,,,,0,,Nav sūdzību,2023-12-11
+101084.0,2023-12-13,C0225,Accessories,Laptop Sleeve,20.38,2,Paid,,,,,,,0,,Nav sūdzību,2023-12-13
+100317.0,2023-11-27,C0001,Electronics,Smartphone Z,724.77,1,Paid,,,,,,,0,,Nav sūdzību,2023-11-27
+100679.0,,C0001,Smart Home,NordLock Pro,197.29,1,Pending,,,,,,,0,,Nav sūdzību,NaT
+100503.0,2023-12-01,C0122,Smart Home,NordLock Pro,207.18,1,Paid,,,,,,,0,100503.0,Atgriešana/Atmaksas pieprasījums,2023-12-01
+100190.0,2023-11-22,C0215,Electronics,Smartphone Z,846.71,2,Paid,,,,,,,0,,Nav sūdzību,2023-11-22
+100763.0,,C0001,Accessories,USB-C Cable,16.94,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+100171.0,2023-11-22,C0090,Accessories,Charger,28.87,4,Paid,,,,,,,0,100171.0,Cits,2023-11-22
+100155.0,,C0003,Electronics,TV Pro,1019.81,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+100177.0,,C0002,Electronics,NoiseCancel Headphones,309.0,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+100350.0,2023-11-27,C0038,Accessories,Charger,34.12,2,Paid,,,,,,,0,100350.0,Lietotnes/Savienojuma kļūda,2023-11-27
+100991.0,2023-12-12,C0107,Electronics,Tablet A,427.39,1,Failed,,,,,,,0,,Nav sūdzību,2023-12-12
+101066.0,2023-12-13,C0007,Electronics,NoiseCancel Headphones,258.62,1,Pending,,,,,,,0,,Nav sūdzību,2023-12-13
+100583.0,2023-12-03,C0001,Electronics,TV Pro,1181.73,1,Paid,,,,,,,0,,Nav sūdzību,2023-12-03
+101191.0,2023-11-15,C0002,Electronics,Tablet A,488.25,1,Paid,,,,,,,0,,Nav sūdzību,2023-11-15
+101035.0,2023-12-12,C0001,Smart Home,NordLock Pro,195.28,2,Paid,,,,,,,0,101035.0,Piegāde,2023-12-12
+100578.0,2023-12-03,C0012,Accessories,Wireless Mouse,51.21,1,Pending,,,,,,,0,,Nav sūdzību,2023-12-03
+101031.0,,C0020,Smart Home,NordLock Pro,205.55,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+100524.0,2023-12-02,C0104,Accessories,Wireless Mouse,18.15,1,Paid,,,,,,,0,,Nav sūdzību,2023-12-02
+100777.0,2023-12-07,C0206,Accessories,Phone Case,16.43,1,Paid,,,,,,,0,,Nav sūdzību,2023-12-07
+101175.0,2023-12-07,C0004,Electronics,Smartphone Z,893.14,1,Paid,,,,,,,0,,Nav sūdzību,2023-12-07
+100607.0,2023-12-04,C0054,Electronics,Laptop X,1698.65,1,Paid,,,,,,,0,100607.0,Atgriešana/Atmaksas pieprasījums,2023-12-04
+100983.0,2023-12-11,C0038,Accessories,Laptop Sleeve,38.52,2,Paid,,,,,,,0,,Nav sūdzību,2023-12-11
+100562.0,,C0142,Accessories,USB-C Cable,17.33,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+100842.0,2023-12-08,C0007,Electronics,Laptop X,1714.94,1,Paid,R000004,Ref: 100842,2023-12-24,1714.94,Processed,100842.0,1,,Nav sūdzību,2023-12-08
+101187.0,2023-11-29,C0017,Smart Home,NordTherm,83.85,1,Paid,,,,,,,0,,Nav sūdzību,2023-11-29
+100630.0,2023-12-04,C0069,Accessories,Wireless Mouse,13.89,1,Paid,,,,,,,0,100630.0,Lietotnes/Savienojuma kļūda,2023-12-04
+100898.0,2023-12-10,C0001,Smart Home,NordLock Pro,241.97,1,Paid,,,,,,,0,,Nav sūdzību,2023-12-10
+100067.0,2023-11-17,C0003,Accessories,Wireless Mouse,56.08,1,Paid,R000005,100067,2023-11-23,56.08,Processed,100067.0,1,,Nav sūdzību,2023-11-17
+100714.0,,C0001,Accessories,Screen Protector,12.92,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+100182.0,2023-11-22,C0001,Electronics,TV Pro,1046.88,1,Failed,,,,,,,0,,Nav sūdzību,2023-11-22
+100958.0,2023-12-11,C0001,Accessories,Charger,43.0,3,Paid,,,,,,,0,,Nav sūdzību,2023-12-11
+100696.0,2023-12-06,C0135,Smart Home,NordLock Pro,225.0,2,Paid,,,,,,,0,100696.0,Piegāde,2023-12-06
+100334.0,2023-11-27,C0005,Electronics,Tablet A,322.05,1,Paid,,,,,,,0,,Nav sūdzību,2023-11-27
+100938.0,,C0014,Electronics,Smartphone Z,782.74,1,Failed,,,,,,,0,,Nav sūdzību,NaT
+100733.0,2023-12-06,C0050,Accessories,Charger,48.23,3,Paid,,,,,,,0,,Nav sūdzību,2023-12-06
+100913.0,2023-12-10,C0001,Accessories,Wireless Mouse,19.15,1,Paid,,,,,,,0,100913.0,Produkta brāķis,2023-12-10
+100644.0,2023-12-04,C0301,Accessories,USB-C Cable,9.53,2,Paid,,,,,,,0,100644.0,Lietotnes/Savienojuma kļūda,2023-12-04
+100541.0,2023-12-02,C0020,Accessories,Wireless Mouse,58.32,1,Paid,,,,,,,0,,Nav sūdzību,2023-12-02
+100577.0,2023-12-03,C0002,Smart Home,NordLock Pro,213.5,2,Paid,R000006,Ref: 100577,2023-12-12,427.0,Processed,100577.0,1,,Nav sūdzību,2023-12-03
+100045.0,2023-11-17,C0115,Electronics,TV Pro,1532.19,1,Paid,,,,,,,0,,Nav sūdzību,2023-11-17
+100080.0,,C0002,Accessories,Accessory Bundle,35.86,2,Paid,,,,,,,0,,Nav sūdzību,NaT
+100911.0,2023-12-10,C0003,Electronics,NoiseCancel Headphones,254.21,1,Paid,,,,,,,0,,Nav sūdzību,2023-12-10
+100820.0,2023-12-08,C0001,Accessories,Accessory Bundle,61.58,3,Failed,,,,,,,0,,Nav sūdzību,2023-12-08
+100990.0,2023-12-12,C0157,Electronics,NoiseCancel Headphones,328.41,2,Paid,,,,,,,0,100990.0,Piegāde,2023-12-12
+100634.0,,C0002,Electronics,Smartphone Z,810.82,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+100118.0,2023-11-19,C0068,Accessories,Laptop Sleeve,38.0,1,Paid,,,,,,,0,,Nav sūdzību,2023-11-19
+100906.0,,C0048,Electronics,NoiseCancel Headphones,158.01,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+100332.0,2023-11-27,C0002,Electronics,Laptop X,1608.06,1,Paid,,,,,,,0,,Nav sūdzību,2023-11-27
+101117.0,2023-12-14,C0018,Accessories,Charger,27.0,2,Paid,,,,,,,0,,Nav sūdzību,2023-12-14
+100755.0,2023-12-07,C0003,Accessories,Accessory Bundle,76.3,2,Paid,,,,,,,0,,Nav sūdzību,2023-12-07
+100483.0,2023-12-01,C0001,Smart Home,NordLock Pro,216.17,1,Paid,,,,,,,0,,Nav sūdzību,2023-12-01
+100047.0,2023-11-17,C0006,Smart Home,NordLock Pro,208.67,1,Paid,,,,,,,0,,Nav sūdzību,2023-11-17
+100605.0,2023-12-04,C0013,Smart Home,NordTherm,142.49,1,Paid,,,,,,,0,,Nav sūdzību,2023-12-04
+100124.0,2023-11-20,C0004,Electronics,NoiseCancel Headphones,233.73,1,Paid,,,,,,,0,,Nav sūdzību,2023-11-20
+100240.0,2023-11-24,C0018,Accessories,USB-C Cable,13.43,2,Paid,,,,,,,0,100240.0,Piegāde,2023-11-24
+100027.0,,C0004,Electronics,NoiseCancel Headphones,170.89,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+101168.0,,C0004,Smart Home,NordLock Pro,246.71,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+100057.0,2023-11-17,C0061,Electronics,TV Pro,1046.02,1,Paid,,,,,,,0,,Nav sūdzību,2023-11-17
+101072.0,2023-12-13,C0001,Smart Home,NordLock Pro,212.32,1,Paid,,,,,,,0,,Nav sūdzību,2023-12-13
+100709.0,2023-12-06,C0001,Accessories,Wireless Mouse,54.54,3,Paid,,,,,,,0,,Nav sūdzību,2023-12-06
+101045.0,2023-12-13,C0027,Smart Home,NordPlug,32.53,2,Paid,,,,,,,0,,Nav sūdzību,2023-12-13
+100379.0,2023-11-28,C0001,Accessories,Accessory Bundle,67.03,2,Paid,,,,,,,0,,Nav sūdzību,2023-11-28
+100316.0,2023-11-26,C0002,Electronics,Tablet A,597.79,1,Paid,,,,,,,0,,Nav sūdzību,2023-11-26
+100907.0,,C0005,Electronics,TV Pro,1352.21,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+100180.0,2023-11-22,C0006,Electronics,NoiseCancel Headphones,228.54,1,Paid,,,,,,,0,,Nav sūdzību,2023-11-22
+101018.0,,C0002,Accessories,USB-C Cable,15.31,2,Paid,,,,,,,0,,Nav sūdzību,NaT
+101088.0,2023-12-14,C0006,Accessories,USB-C Cable,14.75,1,Paid,,,,,,,0,101088.0,Produkta brāķis,2023-12-14
+100515.0,,C0243,Electronics,Tablet A,533.0,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+100693.0,2023-12-06,C0001,Accessories,Laptop Sleeve,26.83,2,Paid,,,,,,,0,,Nav sūdzību,2023-12-06
+100682.0,2023-12-05,C0223,Accessories,Screen Protector,7.5,2,Paid,,,,,,,0,100682.0,Produkta brāķis,2023-12-05
+101037.0,2023-12-12,C0003,Electronics,NoiseCancel Headphones,308.13,1,Paid,R000007,TX-101037,2023-12-27,308.13,Processed,101037.0,1,,Nav sūdzību,2023-12-12
+100106.0,,C0020,Accessories,USB-C Cable,14.99,2,Paid,,,,,,,0,,Nav sūdzību,NaT
+100786.0,2023-12-07,C0112,Smart Home,NordLock Pro,245.31,1,Paid,R000008,TX-100786,2023-12-14,245.31,Processed,100786.0,1,100786.0,Lietotnes/Savienojuma kļūda,2023-12-07
+100915.0,2023-12-10,C0028,Accessories,USB-C Cable,15.71,1,Failed,,,,,,,0,,Nav sūdzību,2023-12-10
+100821.0,,C0001,Accessories,Screen Protector,6.18,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+100268.0,2023-11-25,C0005,Electronics,TV Pro,1187.59,1,Pending,,,,,,,0,,Nav sūdzību,2023-11-25
+101148.0,,C0220,Accessories,Phone Case,31.01,4,Paid,,,,,,,0,,Nav sūdzību,NaT
+100789.0,2023-12-07,C0030,Electronics,Laptop X,1363.0,1,Paid,,,,,,,0,,Nav sūdzību,2023-12-07
+100967.0,2023-12-11,C0002,Accessories,Screen Protector,14.65,2,Pending,,,,,,,0,,Nav sūdzību,2023-12-11
+100448.0,,C0001,Accessories,Screen Protector,13.04,2,Paid,,,,,,,0,,Nav sūdzību,NaT
+100041.0,2023-11-16,C0007,Accessories,Accessory Bundle,96.52,1,Paid,,,,,,,0,,Nav sūdzību,2023-11-16
+100533.0,2023-12-02,C0034,Accessories,Laptop Sleeve,32.3,3,Paid,,,,,,,0,,Nav sūdzību,2023-12-02
+100301.0,2023-11-26,C0046,Accessories,Charger,15.37,1,Paid,R000009,Order 100301,2023-12-06,15.37,Processed,100301.0,1,,Nav sūdzību,2023-11-26
+100434.0,2023-11-29,C0005,Electronics,NoiseCancel Headphones,344.0,1,Paid,,,,,,,0,,Nav sūdzību,2023-11-29
+100802.0,2023-12-08,C0183,Smart Home,NordLock Pro,200.86,1,Paid,R000010,TX-100802,2023-12-17,200.86,Processed,100802.0,1,100802.0,Cits,2023-12-08
+101126.0,,C0001,Smart Home,NordLock Pro,206.17,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+100269.0,2023-11-25,C0070,Electronics,Laptop X,1466.72,1,Pending,,,,,,,0,,Nav sūdzību,2023-11-25
+100619.0,,C0001,Electronics,TV Pro,1574.14,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+100633.0,2023-12-04,C0040,Accessories,USB-C Cable,13.0,3,Paid,,,,,,,0,,Nav sūdzību,2023-12-04
+101029.0,2023-12-12,C0001,Accessories,Laptop Sleeve,37.26,2,Paid,,,,,,,0,,Nav sūdzību,2023-12-12
+101081.0,2023-12-13,C0004,Smart Home,NordPlug,21.26,1,Paid,,,,,,,0,,Nav sūdzību,2023-12-13
+100297.0,,C0015,Smart Home,NordLock Pro,248.0,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+101155.0,,C0042,Electronics,Laptop X,1620.72,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+100703.0,,C0001,Smart Home,NordLock Pro,225.82,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+100594.0,2023-12-03,C0147,Electronics,Tablet A,724.89,1,Paid,,,,,,,0,100594.0,Lietotnes/Savienojuma kļūda,2023-12-03
+100971.0,2023-12-11,C0002,Electronics,TV Pro,1667.73,1,Paid,,,,,,,0,,Nav sūdzību,2023-12-11
+100299.0,2023-11-26,C0018,Electronics,NoiseCancel Headphones,281.5,1,Paid,,,,,,,0,,Nav sūdzību,2023-11-26
+101095.0,2023-12-14,C0002,Smart Home,NordLock Pro,238.51,1,Paid,,,,,,,0,,Nav sūdzību,2023-12-14
+100905.0,2023-12-10,C0311,Electronics,TV Pro,1080.0,1,Paid,,,,,,,0,,Nav sūdzību,2023-12-10
+100208.0,,C0002,Accessories,USB-C Cable,11.04,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+100704.0,,C0010,Smart Home,NordLock Pro,241.0,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+100896.0,2023-12-10,C0001,Accessories,USB-C Cable,18.6,1,Paid,,,,,,,0,,Nav sūdzību,2023-12-10
+101132.0,2023-12-14,C0001,Electronics,Tablet A,589.01,1,Paid,,,,,,,0,,Nav sūdzību,2023-12-14
+100144.0,2023-11-21,C0001,Accessories,Laptop Sleeve,31.36,3,Paid,,,,,,,0,,Nav sūdzību,2023-11-21
+100251.0,,C0001,Accessories,Charger,41.99,3,Paid,,,,,,,0,,Nav sūdzību,NaT
+100514.0,,C0095,Electronics,Laptop X,1623.0,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+100978.0,2023-12-11,C0003,Electronics,NoiseCancel Headphones,279.88,1,Paid,,,,,,,0,,Nav sūdzību,2023-12-11
+100824.0,2023-12-08,C0007,Electronics,Tablet A,524.82,1,Paid,,,,,,,0,,Nav sūdzību,2023-12-08
+101082.0,2023-12-13,C0014,Smart Home,NordLock Pro,231.99,1,Paid,,,,,,,0,,Nav sūdzību,2023-12-13
+100717.0,2023-12-06,C0001,Accessories,Phone Case,39.48,1,Paid,,,,,,,0,,Nav sūdzību,2023-12-06
+100732.0,2023-12-06,C0001,Electronics,TV Pro,1144.44,1,Paid,,,,,,,0,,Nav sūdzību,2023-12-06
+100164.0,2023-11-22,C0015,Electronics,Smartphone Z,845.23,1,Paid,,,,,,,0,,Nav sūdzību,2023-11-22
+100501.0,2023-12-01,C0002,Electronics,NoiseCancel Headphones,255.15,1,Paid,,,,,,,0,,Nav sūdzību,2023-12-01
+100264.0,2023-11-25,C0316,Smart Home,NordLock Pro,208.11,1,Paid,,,,,,,0,,Nav sūdzību,2023-11-25
+100082.0,2023-11-18,C0001,Electronics,Laptop X,1457.02,2,Paid,,,,,,,0,,Nav sūdzību,2023-11-18
+101142.0,2023-11-17,C0061,Electronics,TV Pro,1046.02,1,Paid,,,,,,,0,,Nav sūdzību,2023-11-17
+100768.0,2023-12-07,C0001,Accessories,Accessory Bundle,55.24,1,Paid,,,,,,,0,,Nav sūdzību,2023-12-07
+100325.0,2023-11-27,C0125,Smart Home,NordLock Pro,220.55,1,Paid,,,,,,,0,100325.0,Piegāde,2023-11-27
+100473.0,2023-11-30,C0004,Electronics,NoiseCancel Headphones,316.19,1,Paid,,,,,,,0,,Nav sūdzību,2023-11-30
+100564.0,2023-12-03,C0001,Smart Home,NordLock Pro,223.08,1,Paid,,,,,,,0,,Nav sūdzību,2023-12-03
+100145.0,,C0170,Accessories,Charger,30.35,2,Paid,,,,,,,0,,Nav sūdzību,NaT
+100663.0,2023-12-05,C0066,Smart Home,NordLock Pro,200.01,1,Paid,R000011,Order 100663,2023-12-12,200.01,Processed,100663.0,1,100663.0,Lietotnes/Savienojuma kļūda,2023-12-05
+100814.0,,C0001,Smart Home,NordLock Pro,181.89,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+100275.0,2023-11-25,C0004,Accessories,Phone Case,19.93,2,Paid,,,,,,,0,,Nav sūdzību,2023-11-25
+100972.0,,C0005,Smart Home,NordLock Pro,216.12,2,Pending,,,,,,,0,,Nav sūdzību,NaT
+100673.0,2023-12-05,C0016,Electronics,Tablet A,507.23,1,Paid,,,,,,,0,,Nav sūdzību,2023-12-05
+100793.0,,C0083,Accessories,USB-C Cable,19.69,2,Paid,,,,,,,0,,Nav sūdzību,NaT
+100752.0,2023-12-07,C0271,Smart Home,NordLock Pro,212.22,2,Paid,,,,,,,0,100752.0,Lietotnes/Savienojuma kļūda,2023-12-07
+100730.0,2023-12-06,C0115,Accessories,Wireless Mouse,58.87,1,Paid,,,,,,,0,100730.0,Cits,2023-12-06
+100609.0,2023-12-04,C0004,Smart Home,NordCam Mini,62.0,1,Paid,,,,,,,0,,Nav sūdzību,2023-12-04
+100825.0,,C0021,Electronics,Tablet A,652.84,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+100088.0,2023-11-18,C0027,Accessories,Charger,20.2,1,Paid,,,,,,,0,,Nav sūdzību,2023-11-18
+100945.0,2023-12-11,C0012,Electronics,Tablet A,736.42,2,Paid,,,,,,,0,,Nav sūdzību,2023-12-11
+100853.0,,C0042,Electronics,Smartphone Z,1004.0,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+100307.0,2023-11-26,C0003,Electronics,Smartphone Z,912.54,1,Paid,,,,,,,0,,Nav sūdzību,2023-11-26
+100552.0,2023-12-02,C0145,Electronics,TV Pro,1419.0,1,Paid,,,,,,,0,,Nav sūdzību,2023-12-02
+100188.0,2023-11-22,C0001,Electronics,Smartphone Z,851.41,1,Paid,,,,,,,0,,Nav sūdzību,2023-11-22
+100892.0,2023-12-10,C0009,Accessories,Wireless Mouse,25.68,1,Paid,,,,,,,0,,Nav sūdzību,2023-12-10
+100288.0,2023-11-25,C0003,Accessories,Charger,29.37,1,Paid,,,,,,,0,,Nav sūdzību,2023-11-25
+100871.0,2023-12-09,C0075,Smart Home,NordLock Pro,185.47,1,Paid,,,,,,,0,100871.0,Cits,2023-12-09
+100668.0,2023-12-05,C0030,Electronics,Laptop X,1686.77,1,Paid,,,,,,,0,,Nav sūdzību,2023-12-05
+101001.0,,C0004,Smart Home,NordLock Pro,186.38,1,Pending,,,,,,,0,,Nav sūdzību,NaT
+101061.0,2023-12-13,C0001,Accessories,Screen Protector,8.08,2,Paid,,,,,,,0,,Nav sūdzību,2023-12-13
+100756.0,2023-12-07,C0001,Accessories,Charger,43.27,1,Paid,,,,,,,0,,Nav sūdzību,2023-12-07
+100372.0,2023-11-28,C0005,Accessories,Accessory Bundle,36.7,2,Paid,,,,,,,0,,Nav sūdzību,2023-11-28
+100050.0,2023-11-17,C0003,Electronics,Tablet A,336.05,2,Paid,,,,,,,0,,Nav sūdzību,2023-11-17
+100454.0,2023-11-30,C0006,Electronics,Smartphone Z,1061.74,1,Paid,,,,,,,0,,Nav sūdzību,2023-11-30
+100549.0,,C0001,Smart Home,NordLock Pro,190.1,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+100248.0,2023-11-24,C0001,Accessories,Wireless Mouse,26.62,1,Paid,,,,,,,0,,Nav sūdzību,2023-11-24
+101195.0,2023-11-23,C0002,Electronics,Laptop X,1577.0,1,Paid,,,,,,,0,,Nav sūdzību,2023-11-23
+100398.0,2023-11-29,C0019,Smart Home,NordLock Pro,201.64,1,Paid,,,,,,,0,,Nav sūdzību,2023-11-29
+100865.0,2023-12-09,C0055,Electronics,Tablet A,772.98,1,Paid,,,,,,,0,100865.0,Lietotnes/Savienojuma kļūda,2023-12-09
+100601.0,2023-12-04,C0001,Accessories,Wireless Mouse,32.0,1,Pending,,,,,,,0,,Nav sūdzību,2023-12-04
+100662.0,2023-12-05,C0004,Smart Home,NordLock Pro,238.67,1,Paid,,,,,,,0,,Nav sūdzību,2023-12-05
+100833.0,2023-12-08,C0027,Electronics,NoiseCancel Headphones,248.37,1,Paid,,,,,,,0,,Nav sūdzību,2023-12-08
+101124.0,,C0197,Accessories,Screen Protector,12.14,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+100838.0,2023-12-08,C0003,Smart Home,NordLock Pro,188.83,1,Paid,R000012,Order 100838,2023-12-16,0.0,Rejected,100838.0,1,100838.0,Produkta brāķis,2023-12-08
+100034.0,,C0001,Accessories,Accessory Bundle,34.22,2,Paid,,,,,,,0,,Nav sūdzību,NaT
+100089.0,2023-11-18,C0002,Accessories,Screen Protector,12.91,1,Paid,,,,,,,0,,Nav sūdzību,2023-11-18
+100357.0,2023-11-28,C0208,Electronics,Smartphone Z,1034.43,1,Paid,,,,,,,0,100357.0,Produkta brāķis,2023-11-28
+100567.0,2023-12-03,C0001,Electronics,Tablet A,631.82,1,Paid,,,,,,,0,,Nav sūdzību,2023-12-03
+100918.0,2023-12-10,C0035,Accessories,Accessory Bundle,98.54,1,Paid,R000013, TX - 100918 ,2023-12-14,98.54,Processed,100918.0,1,100918.0,Produkta brāķis,2023-12-10
+100517.0,,C0117,Accessories,Phone Case,33.43,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+100085.0,,C0020,Accessories,Charger,45.43,2,Paid,,,,,,,0,,Nav sūdzību,NaT
+100773.0,2023-12-07,C0004,Electronics,Smartphone Z,893.14,1,Paid,,,,,,,0,,Nav sūdzību,2023-12-07
+100347.0,,C0006,Electronics,TV Pro,937.66,2,Paid,,,,,,,0,,Nav sūdzību,NaT
+100539.0,2023-12-02,C0008,Electronics,TV Pro,1441.81,1,Paid,,,,,,,0,,Nav sūdzību,2023-12-02
+100132.0,2023-11-20,C0001,Electronics,Laptop X,1612.31,2,Paid,,,,,,,0,,Nav sūdzību,2023-11-20
+100376.0,2023-11-28,C0006,Smart Home,NordLock Pro,224.2,1,Paid,,,,,,,0,,Nav sūdzību,2023-11-28
+101034.0,,C0214,Accessories,Charger,15.36,2,Paid,,,,,,,0,,Nav sūdzību,NaT
+100616.0,2023-12-04,C0005,Accessories,Screen Protector,5.04,1,Failed,,,,,,,0,,Nav sūdzību,2023-12-04
+100822.0,2023-12-08,C0242,Smart Home,NordLock Pro,200.64,1,Paid,,,,,,,0,,Nav sūdzību,2023-12-08
+100362.0,2023-11-28,C0004,Accessories,Charger,43.85,2,Paid,,,,,,,0,,Nav sūdzību,2023-11-28
+100428.0,2023-11-29,C0027,Accessories,Accessory Bundle,69.78,1,Paid,,,,,,,0,,Nav sūdzību,2023-11-29
+101032.0,2023-12-12,C0125,Accessories,Phone Case,38.23,2,Paid,,,,,,,0,101032.0,Produkta brāķis,2023-12-12
+100342.0,2023-11-27,C0024,Accessories,Phone Case,36.96,2,Paid,,,,,,,0,,Nav sūdzību,2023-11-27
+100498.0,2023-12-01,C0013,Accessories,Screen Protector,9.2,1,Paid,,,,,,,0,,Nav sūdzību,2023-12-01
+100758.0,2023-12-07,C0057,Smart Home,NordLock Pro,239.23,1,Paid,,,,,,,0,100758.0,Cits,2023-12-07
+101020.0,,C0013,Accessories,Screen Protector,12.92,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+101146.0,,C0002,Smart Home,NordLock Pro,192.26,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+100734.0,,C0009,Smart Home,NordTherm,106.57,1,Failed,,,,,,,0,,Nav sūdzību,NaT
+100063.0,,C0046,Electronics,TV Pro,1698.27,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+100636.0,,C0008,Accessories,Accessory Bundle,37.42,4,Paid,,,,,,,0,,Nav sūdzību,NaT
+100914.0,2023-12-10,C0118,Accessories,USB-C Cable,14.98,1,Paid,,,,,,,0,100914.0,Atgriešana/Atmaksas pieprasījums,2023-12-10
+100468.0,2023-11-30,C0001,Electronics,TV Pro,958.27,1,Paid,,,,,,,0,,Nav sūdzību,2023-11-30
+100220.0,2023-11-24,C0073,Accessories,Accessory Bundle,44.98,2,Paid,,,,,,,0,100220.0,Piegāde,2023-11-24
+100443.0,,C0009,Electronics,Tablet A,487.7,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+100153.0,2023-11-21,C0106,Electronics,Laptop X,1426.23,1,Paid,,,,,,,0,,Nav sūdzību,2023-11-21
+100326.0,2023-11-27,C0019,Smart Home,NordLock Pro,238.66,1,Paid,,,,,,,0,,Nav sūdzību,2023-11-27
+100308.0,2023-11-26,C0301,Accessories,Charger,42.0,1,Paid,,,,,,,0,,Nav sūdzību,2023-11-26
+100859.0,2023-12-09,C0047,Electronics,TV Pro,1295.1,1,Paid,,,,,,,0,100859.0,Produkta brāķis,2023-12-09
+100613.0,2023-12-04,C0005,Electronics,Smartphone Z,701.94,1,Paid,,,,,,,0,,Nav sūdzību,2023-12-04
+100585.0,2023-12-03,C0067,Smart Home,NordTherm,84.35,1,Paid,,,,,,,0,,Nav sūdzību,2023-12-03
+100606.0,2023-12-04,C0003,Accessories,Screen Protector,5.0,2,Paid,R000014,TX-100606,2023-12-14,10.0,Processed,100606.0,1,,Nav sūdzību,2023-12-04
+100204.0,,C0239,Electronics,NoiseCancel Headphones,204.43,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+100772.0,,C0001,Accessories,Charger,43.23,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+100399.0,,C0262,Electronics,NoiseCancel Headphones,186.48,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+100005.0,,C0003,Electronics,Tablet A,553.75,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+101147.0,2023-11-24,C0276,Smart Home,NordLock Pro,205.21,1,Paid,R000015,Ref: 101147,2023-11-28,205.21,Processed,101147.0,1,101147.0,Produkta brāķis,2023-11-24
+100893.0,2023-12-10,C0224,Accessories,Accessory Bundle,47.39,1,Paid,,,,,,,0,,Nav sūdzību,2023-12-10
+100900.0,2023-12-10,C0001,Accessories,USB-C Cable,11.88,1,Paid,,,,,,,0,,Nav sūdzību,2023-12-10
+100701.0,,C0120,Accessories,USB-C Cable,17.86,2,Paid,,,,,,,0,,Nav sūdzību,NaT
+100845.0,,C0001,Smart Home,NordLock Pro,202.58,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+100994.0,,C0023,Smart Home,NordLock Pro,192.7,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+100458.0,2023-11-30,C0030,Smart Home,NordLock Pro,214.91,1,Paid,,,,,,,0,,Nav sūdzību,2023-11-30
+100072.0,2023-11-18,C0001,Accessories,Phone Case,25.0,1,Paid,,,,,,,0,,Nav sūdzību,2023-11-18
+100672.0,2023-12-05,C0007,Electronics,NoiseCancel Headphones,196.0,1,Paid,,,,,,,0,,Nav sūdzību,2023-12-05
+100656.0,,C0001,Smart Home,NordLock Pro,210.0,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+101164.0,,C0296,Accessories,Accessory Bundle,52.01,2,Paid,,,,,,,0,,Nav sūdzību,NaT
+100262.0,2023-11-25,C0033,Electronics,Smartphone Z,948.32,1,Paid,R000016,Ref: 100262,2023-12-02,,Processed,100262.0,1,,Nav sūdzību,2023-11-25
+101043.0,,C0002,Accessories,Accessory Bundle,46.99,2,Paid,,,,,,,0,,Nav sūdzību,NaT
+100538.0,,C0007,Accessories,Accessory Bundle,82.45,2,Paid,,,,,,,0,,Nav sūdzību,NaT
+100203.0,,C0079,Accessories,USB-C Cable,11.15,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+101152.0,2023-11-24,C0126,Accessories,USB-C Cable,9.1,1,Paid,,,,,,,0,,Nav sūdzību,2023-11-24
+100071.0,2023-11-17,C0035,Accessories,USB-C Cable,15.0,4,Paid,,,,,,,0,,Nav sūdzību,2023-11-17
+101128.0,,C0283,Electronics,TV Pro,1490.5,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+100954.0,2023-12-11,C0187,Accessories,Accessory Bundle,97.99,2,Paid,,,,,,,0,100954.0,Piegāde,2023-12-11
+100128.0,2023-11-20,C0120,Accessories,Phone Case,33.65,1,Paid,,,,,,,0,,Nav sūdzību,2023-11-20
+100371.0,,C0013,Electronics,Smartphone Z,922.19,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+100135.0,,C0098,Electronics,Laptop X,1417.96,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+100485.0,,C0060,Electronics,NoiseCancel Headphones,327.51,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+100816.0,2023-12-08,C0031,Smart Home,NordLock Pro,207.28,1,Paid,R000017,TX-100816,2023-12-16,207.28,Processed,100816.0,1,100816.0,Piegāde,2023-12-08
+100222.0,2023-11-24,C0070,Accessories,Wireless Mouse,39.86,1,Paid,,,,,,,0,,Nav sūdzību,2023-11-24
+101093.0,2023-12-14,C0001,Electronics,NoiseCancel Headphones,307.32,1,Paid,,,,,,,0,,Nav sūdzību,2023-12-14
+101050.0,,C0012,Electronics,NoiseCancel Headphones,223.42,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+101129.0,2023-12-14,C0001,Electronics,TV Pro,932.28,1,Paid,,,,,,,0,,Nav sūdzību,2023-12-14
+100697.0,,C0001,Electronics,TV Pro,1320.84,2,Paid,,,,,,,0,,Nav sūdzību,NaT
+100657.0,2023-12-05,C0001,Smart Home,NordPlug,31.03,1,Failed,,,,,,,0,,Nav sūdzību,2023-12-05
+100406.0,2023-11-29,C0143,Electronics,Tablet A,349.95,1,Paid,,,,,,,0,,Nav sūdzību,2023-11-29
+100736.0,2023-12-06,C0002,Smart Home,NordTherm,85.29,1,Paid,,,,,,,0,,Nav sūdzību,2023-12-06
+100531.0,,C0004,Accessories,Wireless Mouse,23.82,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+101090.0,,C0002,Smart Home,NordLock Pro,219.32,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+100602.0,2023-12-04,C0007,Electronics,Tablet A,529.46,1,Paid,,,,,,,0,,Nav sūdzību,2023-12-04
+100211.0,2023-11-23,C0005,Electronics,Smartphone Z,988.0,1,Paid,,,,,,,0,,Nav sūdzību,2023-11-23
+100388.0,,C0001,Electronics,Tablet A,599.27,2,Paid,,,,,,,0,,Nav sūdzību,NaT
+101158.0,2023-12-04,C0040,Accessories,USB-C Cable,13.0,3,Paid,,,,,,,0,101158.0,Cits,2023-12-04
+100711.0,2023-12-06,C0010,Accessories,Wireless Mouse,29.11,1,Paid,,,,,,,0,,Nav sūdzību,2023-12-06
+100848.0,2023-12-09,C0007,Accessories,Accessory Bundle,83.0,2,Paid,,,,,,,0,,Nav sūdzību,2023-12-09
+100263.0,2023-11-25,C0001,Electronics,Smartphone Z,740.02,1,Paid,,,,,,,0,,Nav sūdzību,2023-11-25
+100305.0,2023-11-26,C0160,Accessories,Charger,17.05,3,Paid,,,,,,,0,100305.0,Produkta brāķis,2023-11-26
+100283.0,,C0003,Electronics,NoiseCancel Headphones,343.43,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+100997.0,,C0001,Electronics,Smartphone Z,706.88,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+101119.0,,C0064,Smart Home,NordLock Pro,188.97,2,Paid,,,,,,,0,,Nav sūdzību,NaT
+100465.0,,C0081,Accessories,Accessory Bundle,62.27,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+100340.0,,C0059,Accessories,Accessory Bundle,26.09,2,Paid,,,,,,,0,,Nav sūdzību,NaT
+100337.0,2023-11-27,C0009,Accessories,Screen Protector,6.38,1,Pending,,,,,,,0,,Nav sūdzību,2023-11-27
+100156.0,2023-11-21,C0003,Electronics,TV Pro,1131.22,1,Failed,,,,,,,0,,Nav sūdzību,2023-11-21
+100513.0,2023-12-01,C0001,Smart Home,NordPlug,18.39,1,Paid,,,,,,,0,,Nav sūdzību,2023-12-01
+100808.0,,C0028,Smart Home,NordLock Pro,193.67,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+100646.0,2023-12-04,C0102,Accessories,USB-C Cable,18.98,1,Paid,,,,,,,0,,Nav sūdzību,2023-12-04
+100540.0,,C0035,Electronics,TV Pro,978.66,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+100074.0,2023-11-18,C0129,Smart Home,NordLock Pro,227.1,1,Paid,,,,,,,0,100074.0,Produkta brāķis,2023-11-18
+100044.0,2023-11-16,C0003,Electronics,NoiseCancel Headphones,207.57,1,Paid,,,,,,,0,,Nav sūdzību,2023-11-16
+101198.0,2023-12-13,C0013,Accessories,Wireless Mouse,26.47,2,Paid,,,,,,,0,,Nav sūdzību,2023-12-13
+100776.0,2023-12-07,C0093,Accessories,Screen Protector,10.13,3,Paid,,,,,,,0,,Nav sūdzību,2023-12-07
+100801.0,,C0318,Accessories,Phone Case,30.35,4,Paid,,,,,,,0,,Nav sūdzību,NaT
+100627.0,2023-12-04,C0022,Accessories,Screen Protector,8.38,1,Paid,,,,,,,0,100627.0,Produkta brāķis,2023-12-04
+100795.0,2023-12-07,C0002,Accessories,USB-C Cable,9.83,1,Paid,,,,,,,0,,Nav sūdzību,2023-12-07
+100569.0,2023-12-03,C0001,Accessories,Charger,28.0,1,Paid,,,,,,,0,,Nav sūdzību,2023-12-03
+100254.0,2023-11-24,C0084,Electronics,Smartphone Z,906.32,1,Paid,,,,,,,0,,Nav sūdzību,2023-11-24
+101003.0,2023-12-12,C0003,Smart Home,NordLock Pro,217.71,2,Paid,,,,,,,0,,Nav sūdzību,2023-12-12
+100097.0,,C0001,Smart Home,NordLock Pro,205.02,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+100279.0,,C0002,Electronics,Tablet A,791.92,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+100710.0,2023-12-06,C0181,Electronics,Laptop X,1439.35,1,Paid,,,,,,,0,,Nav sūdzību,2023-12-06
+100296.0,2023-11-26,C0028,Electronics,TV Pro,1020.82,1,Paid,,,,,,,0,,Nav sūdzību,2023-11-26
+100723.0,2023-12-06,C0020,Accessories,Laptop Sleeve,15.59,2,Paid,,,,,,,0,,Nav sūdzību,2023-12-06
+100346.0,2023-11-27,C0001,Smart Home,NordLock Pro,210.9,1,Paid,,,,,,,0,,Nav sūdzību,2023-11-27
+100655.0,2023-12-05,C0023,Accessories,Accessory Bundle,59.55,1,Paid,R000018,Order 100655,2023-12-13,,Rejected,100655.0,1,100655.0,Produkta brāķis,2023-12-05
+100099.0,2023-11-19,C0001,Electronics,TV Pro,926.93,1,Paid,,,,,,,0,,Nav sūdzību,2023-11-19
+100470.0,2023-11-30,C0200,Smart Home,NordLock Pro,189.66,1,Paid,,,,,,,0,100470.0,Produkta brāķis,2023-11-30
+100504.0,2023-12-01,C0037,Accessories,Charger,42.66,1,Paid,,,,,,,0,100504.0,Piegāde,2023-12-01
+100075.0,2023-11-18,C0022,Accessories,Wireless Mouse,44.32,2,Paid,,,,,,,0,,Nav sūdzību,2023-11-18
+100266.0,,C0007,Smart Home,NordCam Mini,94.6,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+101004.0,,C0030,Accessories,Charger,19.8,3,Paid,,,,,,,0,,Nav sūdzību,NaT
+100131.0,,C0004,Accessories,Screen Protector,12.93,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+100509.0,2023-12-01,C0015,Accessories,USB-C Cable,16.14,1,Paid,,,,,,,0,100509.0,Piegāde,2023-12-01
+100064.0,,C0012,Accessories,Phone Case,12.0,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+100012.0,2023-11-15,C0005,Electronics,Laptop X,1546.0,2,Paid,,,,,,,0,,Nav sūdzību,2023-11-15
+101192.0,2023-11-25,C0003,Electronics,Smartphone Z,1056.7,1,Paid,,,,,,,0,,Nav sūdzību,2023-11-25
+100356.0,2023-11-28,C0037,Electronics,Tablet A,556.99,1,Paid,,,,,,,0,,Nav sūdzību,2023-11-28
+100028.0,2023-11-16,C0253,Accessories,Laptop Sleeve,29.42,1,Paid,,,,,,,0,100028.0,Cits,2023-11-16
+100923.0,2023-12-10,C0022,Electronics,Smartphone Z,711.15,1,Paid,,,,,,,0,100923.0,Produkta brāķis,2023-12-10
+100766.0,,C0034,Electronics,Tablet A,715.0,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+100784.0,2023-12-07,C0019,Accessories,USB-C Cable,19.73,1,Paid,,,,,,,0,100784.0,Produkta brāķis,2023-12-07
+100425.0,2023-11-29,C0002,Accessories,USB-C Cable,9.35,1,Pending,,,,,,,0,,Nav sūdzību,2023-11-29
+100025.0,,C0001,Electronics,TV Pro,929.16,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+100959.0,2023-12-11,C0028,Electronics,TV Pro,1060.75,1,Paid,,,,,,,0,100959.0,Lietotnes/Savienojuma kļūda,2023-12-11
+101196.0,,C0003,Accessories,Laptop Sleeve,36.68,2,Paid,,,,,,,0,,Nav sūdzību,NaT
+100403.0,2023-11-29,C0025,Smart Home,NordLock Pro,190.38,1,Paid,,,,,,,0,,Nav sūdzību,2023-11-29
+100192.0,2023-11-23,C0003,Accessories,Wireless Mouse,56.45,1,Paid,,,,,,,0,,Nav sūdzību,2023-11-23
+100626.0,,C0001,Electronics,Tablet A,503.52,1,Failed,,,,,,,0,,Nav sūdzību,NaT
+100651.0,2023-12-05,C0002,Electronics,Smartphone Z,966.41,1,Paid,,,,,,,0,,Nav sūdzību,2023-12-05
+100129.0,,C0051,Smart Home,NordLock Pro,247.01,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+100678.0,2023-12-05,C0033,Smart Home,NordLock Pro,229.79,1,Paid,,,,,,,0,,Nav sūdzību,2023-12-05
+101133.0,,C0042,Electronics,TV Pro,1610.06,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+100169.0,2023-11-22,C0006,Electronics,NoiseCancel Headphones,333.41,1,Paid,,,,,,,0,,Nav sūdzību,2023-11-22
+100287.0,,C0072,Accessories,Charger,17.47,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+100383.0,2023-11-28,C0237,Smart Home,NordLock Pro,208.61,2,Paid,,,,,,,0,100383.0,Cits,2023-11-28
+100924.0,2023-12-10,C0087,Accessories,Accessory Bundle,77.62,2,Paid,,,,,,,0,,Nav sūdzību,2023-12-10
+101102.0,,C0002,Electronics,NoiseCancel Headphones,227.69,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+100857.0,2023-12-09,C0001,Electronics,NoiseCancel Headphones,150.3,1,Paid,,,,,,,0,,Nav sūdzību,2023-12-09
+101086.0,2023-12-14,C0007,Smart Home,NordLock Pro,220.54,1,Paid,,,,,,,0,,Nav sūdzību,2023-12-14
+100536.0,2023-12-02,C0001,Accessories,USB-C Cable,14.0,1,Paid,,,,,,,0,,Nav sūdzību,2023-12-02
+100015.0,,C0013,Accessories,Laptop Sleeve,28.15,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+100420.0,2023-11-29,C0001,Accessories,Phone Case,18.25,4,Paid,,,,,,,0,,Nav sūdzību,2023-11-29
+100189.0,,C0001,Electronics,Laptop X,1507.54,2,Paid,,,,,,,0,,Nav sūdzību,NaT
+101107.0,,C0003,Electronics,NoiseCancel Headphones,183.96,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+101024.0,2023-12-12,C0003,Smart Home,NordLock Pro,226.2,1,Paid,,,,,,,0,101024.0,Cits,2023-12-12
+100437.0,2023-11-30,C0008,Electronics,Tablet A,355.2,1,Paid,,,,,,,0,,Nav sūdzību,2023-11-30
+101025.0,,C0120,Accessories,Charger,29.0,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+100769.0,,C0050,Electronics,NoiseCancel Headphones,282.69,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+100375.0,2023-11-28,C0009,Accessories,Phone Case,35.08,3,Paid,,,,,,,0,,Nav sūdzību,2023-11-28
+100373.0,2023-11-28,C0024,Accessories,USB-C Cable,17.66,1,Paid,,,,,,,0,,Nav sūdzību,2023-11-28
+100591.0,2023-12-03,C0017,Smart Home,NordLock Pro,239.52,1,Paid,R000019,Ref: 100591,2023-12-10,239.52,Processed,100591.0,1,,Nav sūdzību,2023-12-03
+100675.0,,C0002,Accessories,Charger,46.6,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+100417.0,2023-11-29,C0078,Accessories,Screen Protector,6.53,1,Paid,,,,,,,0,100417.0,Piegāde,2023-11-29
+100195.0,,C0037,Smart Home,NordLock Pro,181.85,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+100450.0,,C0002,Accessories,Screen Protector,11.57,2,Paid,,,,,,,0,,Nav sūdzību,NaT
+100810.0,,C0002,Smart Home,NordLock Pro,180.92,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+100775.0,2023-12-07,C0001,Accessories,USB-C Cable,13.71,1,Paid,,,,,,,0,,Nav sūdzību,2023-12-07
+100962.0,2023-12-11,C0006,Smart Home,NordLock Pro,190.08,1,Paid,R000020,TX-100962,2023-12-21,0.0,Rejected,100962.0,1,,Nav sūdzību,2023-12-11
+100962.0,2023-12-11,C0006,Smart Home,NordLock Pro,190.08,1,Paid,R000020,TX-100962,2023-12-21,0.0,Rejected,100962.0,1,,Nav sūdzību,2023-12-11
+101039.0,2023-12-12,C0001,Smart Home,NordLock Pro,219.18,1,Paid,,,,,,,0,,Nav sūdzību,2023-12-12
+100408.0,,C0005,Accessories,Laptop Sleeve,44.52,3,Paid,,,,,,,0,,Nav sūdzību,NaT
+100397.0,,C0007,Smart Home,NordLock Pro,199.29,1,Pending,,,,,,,0,,Nav sūdzību,NaT
+100615.0,,C0011,Electronics,NoiseCancel Headphones,262.06,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+100963.0,2023-12-11,C0024,Smart Home,NordLock Pro,206.0,1,Paid,R000021,Ref: 100963,2023-12-15,206.0,Processed,100963.0,1,,Nav sūdzību,2023-12-11
+100749.0,,C0256,Accessories,Phone Case,14.51,4,Paid,,,,,,,0,,Nav sūdzību,NaT
+100863.0,,C0011,Smart Home,NordLock Pro,192.18,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+100193.0,,C0010,Electronics,Tablet A,752.45,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+100150.0,2023-11-21,C0002,Electronics,NoiseCancel Headphones,227.04,1,Paid,,,,,,,0,,Nav sūdzību,2023-11-21
+100688.0,,C0006,Electronics,Tablet A,644.02,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+100791.0,2023-12-07,C0002,Electronics,Tablet A,636.8,1,Paid,,,,,,,0,,Nav sūdzību,2023-12-07
+100740.0,,C0047,Electronics,Smartphone Z,712.48,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+100300.0,2023-11-26,C0009,Accessories,Phone Case,18.67,3,Paid,,,,,,,0,,Nav sūdzību,2023-11-26
+100708.0,2023-12-06,C0003,Electronics,Tablet A,612.79,1,Paid,,,,,,,0,,Nav sūdzību,2023-12-06
+100950.0,2023-12-11,C0258,Electronics,NoiseCancel Headphones,200.27,1,Paid,,,,,,,0,,Nav sūdzību,2023-12-11
+100241.0,2023-11-24,C0065,Smart Home,NordPlug,32.73,1,Paid,,,,,,,0,,Nav sūdzību,2023-11-24
+100200.0,2023-11-23,C0063,Electronics,Tablet A,714.86,1,Paid,,,,,,,0,,Nav sūdzību,2023-11-23
+100046.0,2023-11-17,C0009,Electronics,TV Pro,1312.23,1,Paid,,,,,,,0,,Nav sūdzību,2023-11-17
+100713.0,2023-12-06,C0030,Smart Home,NordLock Pro,239.0,1,Paid,R000022,100713,2023-12-12,239.0,Processed,100713.0,1,,Nav sūdzību,2023-12-06
+100588.0,2023-12-03,C0016,Accessories,Wireless Mouse,40.0,1,Paid,,,,,,,0,,Nav sūdzību,2023-12-03
+100138.0,,C0001,Accessories,Wireless Mouse,59.52,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+101099.0,2023-12-14,C0008,Electronics,Laptop X,1431.88,1,Pending,,,,,,,0,,Nav sūdzību,2023-12-14
+100534.0,2023-12-02,C0018,Accessories,Screen Protector,14.1,1,Paid,,,,,,,0,100534.0,Produkta brāķis,2023-12-02
+100661.0,2023-12-05,C0029,Smart Home,NordLock Pro,247.0,2,Paid,,,,,,,0,,Nav sūdzību,2023-12-05
+100781.0,2023-12-07,C0003,Accessories,Charger,36.62,2,Paid,,,,,,,0,,Nav sūdzību,2023-12-07
+100665.0,2023-12-05,C0004,Accessories,Screen Protector,5.76,1,Paid,,,,,,,0,,Nav sūdzību,2023-12-05
+101120.0,2023-12-14,C0001,Smart Home,NordLock Pro,226.0,1,Paid,,,,,,,0,,Nav sūdzību,2023-12-14
+100382.0,,C0147,Accessories,Charger,39.53,2,Paid,,,,,,,0,,Nav sūdzību,NaT
+100642.0,2023-12-04,C0022,Accessories,Phone Case,19.39,3,Paid,,,,,,,0,,Nav sūdzību,2023-12-04
+101182.0,2023-11-30,C0303,Accessories,Wireless Mouse,23.0,1,Paid,,,,,,,0,,Nav sūdzību,2023-11-30
+100449.0,2023-11-30,C0003,Smart Home,NordLock Pro,239.22,1,Paid,,,,,,,0,,Nav sūdzību,2023-11-30
+100511.0,2023-12-01,C0001,Accessories,Laptop Sleeve,42.01,2,Paid,,,,,,,0,,Nav sūdzību,2023-12-01
+100424.0,2023-11-29,C0006,Accessories,USB-C Cable,8.8,1,Paid,,,,,,,0,,Nav sūdzību,2023-11-29
+100007.0,,C0003,Accessories,Phone Case,28.53,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+100098.0,2023-11-19,C0019,Electronics,TV Pro,1266.38,1,Paid,,,,,,,0,,Nav sūdzību,2023-11-19
+100411.0,2023-11-29,C0065,Electronics,Tablet A,440.32,1,Pending,,,,,,,0,,Nav sūdzību,2023-11-29
+100159.0,2023-11-21,C0012,Electronics,Tablet A,394.06,1,Paid,,,,,,,0,,Nav sūdzību,2023-11-21
+100919.0,2023-12-10,C0001,Electronics,TV Pro,970.6,1,Paid,,,,,,,0,,Nav sūdzību,2023-12-10
+100653.0,2023-12-05,C0020,Accessories,Screen Protector,9.37,2,Paid,,,,,,,0,,Nav sūdzību,2023-12-05
+100033.0,2023-11-16,C0007,Electronics,Tablet A,615.0,1,Paid,,,,,,,0,,Nav sūdzību,2023-11-16
+100799.0,2023-12-08,C0011,Smart Home,NordPlug,24.63,1,Paid,,,,,,,0,100799.0,Produkta brāķis,2023-12-08
+100760.0,2023-12-07,C0002,Electronics,Tablet A,520.14,1,Paid,,,,,,,0,,Nav sūdzību,2023-12-07
+100522.0,2023-12-02,C0003,Accessories,Charger,39.36,1,Paid,,,,,,,0,,Nav sūdzību,2023-12-02
+100335.0,2023-11-27,C0040,Electronics,Smartphone Z,1004.81,1,Paid,,,,,,,0,,Nav sūdzību,2023-11-27
+100491.0,,C0001,Accessories,Accessory Bundle,45.49,2,Paid,,,,,,,0,,Nav sūdzību,NaT
+100259.0,2023-11-24,C0013,Electronics,Smartphone Z,718.54,1,Paid,,,,,,,0,,Nav sūdzību,2023-11-24
+100172.0,2023-11-22,C0007,Accessories,Laptop Sleeve,39.84,1,Paid,,,,,,,0,,Nav sūdzību,2023-11-22
+101108.0,2023-12-14,C0024,Accessories,Laptop Sleeve,19.89,4,Pending,,,,,,,0,,Nav sūdzību,2023-12-14
+100548.0,2023-12-02,C0001,Electronics,TV Pro,1184.65,1,Paid,,,,,,,0,,Nav sūdzību,2023-12-02
+100237.0,2023-11-24,C0301,Accessories,Laptop Sleeve,38.99,1,Paid,,,,,,,0,,Nav sūdzību,2023-11-24
+100385.0,2023-11-28,C0015,Accessories,Laptop Sleeve,24.0,3,Paid,,,,,,,0,,Nav sūdzību,2023-11-28
+100659.0,2023-12-05,C0008,Accessories,Charger,40.01,1,Paid,,,,,,,0,,Nav sūdzību,2023-12-05
+100024.0,2023-11-16,C0002,Accessories,Charger,25.01,1,Paid,,,,,,,0,,Nav sūdzību,2023-11-16
+101012.0,2023-12-12,C0001,Electronics,Laptop X,1535.84,1,Failed,,,,,,,0,,Nav sūdzību,2023-12-12
+100885.0,,C0010,Electronics,TV Pro,947.14,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+100546.0,,C0079,Accessories,USB-C Cable,9.98,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+100641.0,,C0015,Accessories,Laptop Sleeve,33.86,3,Paid,,,,,,,0,,Nav sūdzību,NaT
+100478.0,2023-11-30,C0003,Electronics,TV Pro,1393.62,1,Paid,,,,,,,0,,Nav sūdzību,2023-11-30
+101178.0,2023-12-13,C0001,Accessories,Charger,46.12,2,Paid,,,,,,,0,,Nav sūdzību,2023-12-13
+100680.0,2023-12-05,C0001,Electronics,Laptop X,1719.0,1,Paid,,,,,,,0,,Nav sūdzību,2023-12-05
+100830.0,2023-12-08,C0016,Accessories,Laptop Sleeve,39.0,1,Paid,,,,,,,0,100830.0,Lietotnes/Savienojuma kļūda,2023-12-08
+100154.0,,C0014,Accessories,Accessory Bundle,46.0,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+100123.0,2023-11-20,C0314,Accessories,Laptop Sleeve,33.17,1,Paid,,,,,,,0,,Nav sūdzību,2023-11-20
+100698.0,2023-12-06,C0001,Electronics,TV Pro,1205.0,1,Paid,,,,,,,0,,Nav sūdzību,2023-12-06
+100121.0,,C0113,Smart Home,NordPlug,23.36,2,Paid,,,,,,,0,,Nav sūdzību,NaT
+100904.0,,C0149,Electronics,TV Pro,1184.42,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+100464.0,2023-11-30,C0001,Accessories,Laptop Sleeve,20.0,2,Paid,,,,,,,0,,Nav sūdzību,2023-11-30
+101121.0,,C0067,Electronics,TV Pro,928.65,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+100628.0,2023-12-04,C0187,Accessories,Wireless Mouse,19.96,1,Paid,,,,,,,0,100628.0,Produkta brāķis,2023-12-04
+101075.0,2023-12-13,C0002,Smart Home,NordCam Mini,62.13,1,Paid,,,,,,,0,,Nav sūdzību,2023-12-13
+100985.0,2023-12-11,C0086,Electronics,Tablet A,783.57,1,Paid,,,,,,,0,,Nav sūdzību,2023-12-11
+100520.0,2023-12-02,C0021,Accessories,USB-C Cable,10.0,1,Paid,,,,,,,0,,Nav sūdzību,2023-12-02
+100951.0,,C0054,Accessories,Accessory Bundle,96.87,2,Paid,,,,,,,0,,Nav sūdzību,NaT
+100966.0,2023-12-11,C0035,Accessories,Phone Case,16.3,1,Paid,,,,,,,0,,Nav sūdzību,2023-12-11
+101177.0,2023-11-28,C0037,Electronics,Tablet A,556.99,1,Paid,,,,,,,0,,Nav sūdzību,2023-11-28
+100587.0,2023-12-03,C0001,Accessories,Screen Protector,10.14,2,Paid,,,,,,,0,,Nav sūdzību,2023-12-03
+101046.0,,C0273,Accessories,Charger,34.08,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+100787.0,2023-12-07,C0003,Electronics,NoiseCancel Headphones,273.02,1,Pending,,,,,,,0,,Nav sūdzību,2023-12-07
+100523.0,2023-12-02,C0025,Electronics,Smartphone Z,940.92,1,Paid,,,,,,,0,100523.0,Piegāde,2023-12-02
+100358.0,2023-11-28,C0001,Accessories,Wireless Mouse,56.52,1,Paid,,,,,,,0,,Nav sūdzību,2023-11-28
+100949.0,,C0046,Smart Home,NordLock Pro,204.69,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+101041.0,,C0002,Smart Home,NordLock Pro,219.45,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+100151.0,2023-11-21,C0002,Electronics,Smartphone Z,752.21,1,Paid,,,,,,,0,,Nav sūdzību,2023-11-21
+100529.0,2023-12-02,C0017,Electronics,Tablet A,326.0,1,Paid,,,,,,,0,,Nav sūdzību,2023-12-02
+100181.0,2023-11-22,C0001,Electronics,NoiseCancel Headphones,185.9,1,Pending,,,,,,,0,,Nav sūdzību,2023-11-22
+100292.0,2023-11-25,C0082,Electronics,NoiseCancel Headphones,258.19,2,Paid,,,,,,,0,100292.0,Cits,2023-11-25
+100650.0,2023-12-05,C0054,Smart Home,NordLock Pro,213.11,1,Paid,R000023,Ref: 100650,2023-12-15,213.11,Processed,100650.0,1,,Nav sūdzību,2023-12-05
+100867.0,2023-12-09,C0029,Smart Home,NordLock Pro,209.05,1,Paid,,,,,,,0,,Nav sūdzību,2023-12-09
+100175.0,2023-11-22,C0002,Accessories,Laptop Sleeve,27.74,1,Paid,,,,,,,0,,Nav sūdzību,2023-11-22
+100743.0,2023-12-07,C0097,Accessories,Laptop Sleeve,20.81,1,Paid,,,,,,,0,100743.0,Piegāde,2023-12-07
+100258.0,2023-11-24,C0099,Smart Home,NordLock Pro,214.74,1,Paid,,,,,,,0,100258.0,Piegāde,2023-11-24
+100862.0,2023-12-09,C0003,Accessories,USB-C Cable,17.87,1,Paid,,,,,,,0,,Nav sūdzību,2023-12-09
+100022.0,2023-11-16,C0003,Electronics,NoiseCancel Headphones,176.57,1,Paid,,,,,,,0,,Nav sūdzību,2023-11-16
+101013.0,2023-12-12,C0001,Accessories,USB-C Cable,13.0,3,Paid,,,,,,,0,,Nav sūdzību,2023-12-12
+101149.0,,C0009,Smart Home,NordTherm,106.57,1,Failed,,,,,,,0,,Nav sūdzību,NaT
+100783.0,2023-12-07,C0211,Smart Home,NordLock Pro,183.6,1,Pending,,,,,,,0,,Nav sūdzību,2023-12-07
+100482.0,,C0007,Electronics,NoiseCancel Headphones,176.13,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+100475.0,2023-11-30,C0222,Electronics,NoiseCancel Headphones,254.73,1,Paid,,,,,,,0,,Nav sūdzību,2023-11-30
+100804.0,2023-12-08,C0006,Accessories,Laptop Sleeve,29.83,3,Paid,,,,,,,0,,Nav sūdzību,2023-12-08
+100119.0,2023-11-19,C0001,Accessories,Accessory Bundle,27.0,2,Paid,,,,,,,0,,Nav sūdzību,2023-11-19
+100179.0,2023-11-22,C0004,Electronics,Laptop X,1755.32,2,Paid,,,,,,,0,,Nav sūdzību,2023-11-22
+101159.0,2023-12-12,C0003,Electronics,NoiseCancel Headphones,308.13,1,Paid,,,,,,,0,,Nav sūdzību,2023-12-12
+100338.0,,C0003,Electronics,NoiseCancel Headphones,321.06,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+101019.0,,C0002,Accessories,Accessory Bundle,75.0,2,Paid,,,,,,,0,,Nav sūdzību,NaT
+100298.0,2023-11-26,C0006,Electronics,NoiseCancel Headphones,236.41,1,Paid,,,,,,,0,,Nav sūdzību,2023-11-26
+101200.0,2023-12-11,C0024,Smart Home,NordLock Pro,206.0,1,Paid,,,,,,,0,101200.0,Produkta brāķis,2023-12-11
+101118.0,2023-12-14,C0001,Accessories,Accessory Bundle,78.76,2,Paid,,,,,,,0,,Nav sūdzību,2023-12-14
+100110.0,2023-11-19,C0001,Electronics,Smartphone Z,1007.22,1,Paid,,,,,,,0,,Nav sūdzību,2023-11-19
+100414.0,2023-11-29,C0001,Accessories,Screen Protector,8.16,3,Paid,,,,,,,0,,Nav sūdzību,2023-11-29
+101111.0,2023-12-14,C0002,Smart Home,NordLock Pro,227.0,1,Paid,,,,,,,0,,Nav sūdzību,2023-12-14
+100543.0,,C0270,Smart Home,NordLock Pro,190.15,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+100888.0,2023-12-09,C0001,Electronics,Smartphone Z,897.04,1,Paid,,,,,,,0,,Nav sūdzību,2023-12-09
+100306.0,2023-11-26,C0012,Smart Home,NordCam Mini,75.0,2,Paid,,,,,,,0,100306.0,Produkta brāķis,2023-11-26
+100968.0,2023-12-11,C0106,Electronics,Laptop X,1406.83,1,Paid,,,,,,,0,100968.0,Produkta brāķis,2023-12-11
+100921.0,,C0002,Smart Home,NordPlug,16.05,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+100021.0,2023-11-15,C0006,Smart Home,NordTherm,138.07,1,Paid,,,,,,,0,,Nav sūdzību,2023-11-15
+100981.0,,C0014,Electronics,Tablet A,543.89,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+100671.0,2023-12-05,C0010,Smart Home,NordLock Pro,228.29,1,Paid,,,,,,,0,,Nav sūdzību,2023-12-05
+101130.0,,C0002,Accessories,Laptop Sleeve,19.0,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+100102.0,2023-11-19,C0010,Accessories,Laptop Sleeve,24.31,1,Paid,,,,,,,0,,Nav sūdzību,2023-11-19
+100140.0,2023-11-21,C0199,Smart Home,NordLock Pro,222.11,1,Paid,R000024,100140,2023-11-25,222.11,Processed,100140.0,1,100140.0,Lietotnes/Savienojuma kļūda,2023-11-21
+100922.0,,C0053,Accessories,Charger,35.94,3,Paid,,,,,,,0,,Nav sūdzību,NaT
+100553.0,2023-12-02,C0019,Smart Home,NordLock Pro,188.09,1,Paid,,,,,,,0,,Nav sūdzību,2023-12-02
+100394.0,,C0016,Electronics,TV Pro,1256.68,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+100461.0,2023-11-30,C0076,Electronics,Smartphone Z,989.24,2,Paid,,,,,,,0,,Nav sūdzību,2023-11-30
+100856.0,2023-12-09,C0001,Accessories,Accessory Bundle,40.96,1,Paid,,,,,,,0,,Nav sūdzību,2023-12-09
+100720.0,2023-12-06,C0002,Smart Home,NordLock Pro,208.0,1,Failed,,,,,,,0,,Nav sūdzību,2023-12-06
+100206.0,2023-11-23,C0002,Electronics,Laptop X,1577.0,1,Paid,,,,,,,0,,Nav sūdzību,2023-11-23
+100912.0,,C0001,Electronics,Tablet A,342.14,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+100589.0,,C0320,Accessories,USB-C Cable,12.34,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+100038.0,2023-11-16,C0002,Accessories,Phone Case,12.88,2,Paid,,,,,,,0,,Nav sūdzību,2023-11-16
+101017.0,,C0002,Accessories,Laptop Sleeve,21.14,1,Failed,,,,,,,0,,Nav sūdzību,NaT
+100361.0,,C0004,Smart Home,NordLock Pro,246.71,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+101069.0,2023-12-13,C0004,Accessories,Accessory Bundle,82.41,1,Paid,,,,,,,0,,Nav sūdzību,2023-12-13
+100574.0,2023-12-03,C0071,Electronics,Smartphone Z,819.94,1,Paid,,,,,,,0,100574.0,Lietotnes/Savienojuma kļūda,2023-12-03
+100596.0,2023-12-04,C0158,Accessories,Charger,19.56,1,Paid,,,,,,,0,100596.0,Lietotnes/Savienojuma kļūda,2023-12-04
+100125.0,,C0001,Accessories,Accessory Bundle,52.5,2,Paid,,,,,,,0,,Nav sūdzību,NaT
+100624.0,2023-12-04,C0001,Smart Home,NordCam Mini,91.0,1,Paid,,,,,,,0,,Nav sūdzību,2023-12-04
+100396.0,,C0296,Accessories,Accessory Bundle,52.01,2,Paid,,,,,,,0,,Nav sūdzību,NaT
+100897.0,,C0110,Smart Home,NordLock Pro,245.24,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+100185.0,,C0001,Smart Home,NordTherm,127.55,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+100056.0,,C0014,Accessories,Charger,15.88,3,Paid,,,,,,,0,,Nav sūdzību,NaT
+100882.0,2023-12-09,C0003,Electronics,TV Pro,1195.36,1,Paid,,,,,,,0,,Nav sūdzību,2023-12-09
+101027.0,2023-12-12,C0001,Smart Home,NordLock Pro,244.0,1,Paid,,,,,,,0,,Nav sūdzību,2023-12-12
+101112.0,,C0001,Accessories,Laptop Sleeve,23.93,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+100166.0,2023-11-22,C0203,Accessories,USB-C Cable,16.3,3,Paid,,,,,,,0,,Nav sūdzību,2023-11-22
+101014.0,,C0291,Smart Home,NordLock Pro,200.0,2,Paid,,,,,,,0,,Nav sūdzību,NaT
+100116.0,2023-11-19,C0009,Electronics,Smartphone Z,1065.43,1,Paid,,,,,,,0,,Nav sūdzību,2023-11-19
+100311.0,2023-11-26,C0191,Electronics,NoiseCancel Headphones,318.0,1,Paid,,,,,,,0,100311.0,Piegāde,2023-11-26
+100909.0,2023-12-10,C0080,Electronics,TV Pro,1355.85,1,Paid,,,,,,,0,,Nav sūdzību,2023-12-10
+100476.0,2023-11-30,C0016,Smart Home,NordLock Pro,223.28,1,Paid,,,,,,,0,,Nav sūdzību,2023-11-30
+100421.0,2023-11-29,C0003,Accessories,Screen Protector,14.39,1,Paid,,,,,,,0,,Nav sūdzību,2023-11-29
+100199.0,,C0003,Electronics,NoiseCancel Headphones,234.0,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+100555.0,2023-12-02,C0038,Electronics,NoiseCancel Headphones,246.91,1,Paid,,,,,,,0,,Nav sūdzību,2023-12-02
+101174.0,2023-11-29,C0008,Accessories,Screen Protector,8.41,3,Paid,R000025,TX-101174,2023-12-07,25.23,Processed,101174.0,1,,Nav sūdzību,2023-11-29
+100219.0,2023-11-23,C0249,Electronics,Smartphone Z,903.0,1,Paid,,,,,,,0,100219.0,Atgriešana/Atmaksas pieprasījums,2023-11-23
+100212.0,2023-11-23,C0014,Accessories,Screen Protector,6.11,2,Paid,,,,,,,0,,Nav sūdzību,2023-11-23
+100635.0,,C0003,Electronics,Laptop X,1648.66,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+100840.0,2023-12-08,C0004,Accessories,Wireless Mouse,18.18,1,Paid,,,,,,,0,,Nav sūdzību,2023-12-08
+100727.0,2023-12-06,C0050,Electronics,Laptop X,1588.34,1,Paid,R000026,TX-100727,2023-12-12,1588.34,Processed,100727.0,1,,Nav sūdzību,2023-12-06
+100055.0,2023-11-17,C0002,Accessories,Accessory Bundle,94.78,1,Pending,,,,,,,0,,Nav sūdzību,2023-11-17
+100532.0,,C0078,Smart Home,NordLock Pro,185.66,2,Failed,,,,,,,0,,Nav sūdzību,NaT
+100815.0,2023-12-08,C0282,Smart Home,NordLock Pro,210.2,1,Paid,R000027,TX-100815,2023-12-17,210.2,Processed,100815.0,1,100815.0,Produkta brāķis,2023-12-08
+100649.0,2023-12-05,C0300,Accessories,Phone Case,16.63,1,Paid,,,,,,,0,,Nav sūdzību,2023-12-05
+100908.0,2023-12-10,C0021,Accessories,Phone Case,17.63,1,Paid,,,,,,,0,,Nav sūdzību,2023-12-10
+100571.0,2023-12-03,C0023,Electronics,Tablet A,370.25,2,Paid,,,,,,,0,100571.0,Piegāde,2023-12-03
+100927.0,2023-12-10,C0062,Accessories,Wireless Mouse,32.09,1,Paid,,,,,,,0,100927.0,Lietotnes/Savienojuma kļūda,2023-12-10
+100330.0,2023-11-27,C0006,Smart Home,NordLock Pro,180.97,1,Paid,,,,,,,0,,Nav sūdzību,2023-11-27
+100493.0,2023-12-01,C0260,Accessories,Charger,36.46,2,Paid,,,,,,,0,,Nav sūdzību,2023-12-01
+100691.0,,C0003,Electronics,Smartphone Z,901.62,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+100751.0,,C0001,Accessories,Phone Case,13.03,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+100832.0,,C0051,Accessories,Accessory Bundle,40.78,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+100148.0,2023-11-21,C0001,Electronics,Smartphone Z,935.86,1,Pending,,,,,,,0,,Nav sūdzību,2023-11-21
+100255.0,2023-11-24,C0034,Electronics,NoiseCancel Headphones,264.94,1,Paid,,,,,,,0,,Nav sūdzību,2023-11-24
+100829.0,2023-12-08,C0013,Smart Home,NordLock Pro,209.14,1,Paid,,,,,,,0,100829.0,Piegāde,2023-12-08
+100566.0,2023-12-03,C0064,Electronics,Laptop X,1695.77,1,Paid,,,,,,,0,100566.0,Produkta brāķis,2023-12-03
+100393.0,2023-11-28,C0238,Electronics,TV Pro,1338.77,1,Paid,,,,,,,0,100393.0,Piegāde,2023-11-28
+100836.0,2023-12-08,C0181,Smart Home,NordCam Mini,53.95,1,Paid,,,,,,,0,,Nav sūdzību,2023-12-08
+101051.0,2023-12-13,C0002,Electronics,Laptop X,1696.76,1,Paid,,,,,,,0,,Nav sūdzību,2023-12-13
+100231.0,,C0001,Electronics,NoiseCancel Headphones,182.17,2,Paid,,,,,,,0,,Nav sūdzību,NaT
+100147.0,2023-11-21,C0006,Electronics,TV Pro,1399.86,1,Paid,,,,,,,0,,Nav sūdzību,2023-11-21
+101153.0,2023-11-30,C0004,Electronics,NoiseCancel Headphones,316.19,1,Paid,,,,,,,0,,Nav sūdzību,2023-11-30
+100168.0,2023-11-22,C0021,Accessories,USB-C Cable,7.78,1,Paid,,,,,,,0,,Nav sūdzību,2023-11-22
+101185.0,2023-11-25,C0033,Electronics,Smartphone Z,948.32,1,Paid,,,,,,,0,101185.0,Piegāde,2023-11-25
+100902.0,2023-12-10,C0004,Electronics,Smartphone Z,1084.69,1,Paid,,,,,,,0,,Nav sūdzību,2023-12-10
+100599.0,2023-12-04,C0001,Electronics,NoiseCancel Headphones,308.58,1,Paid,R000028,TX-100599,2023-12-17,308.58,Processed,100599.0,1,,Nav sūdzību,2023-12-04
+101055.0,2023-12-13,C0002,Smart Home,NordLock Pro,246.13,1,Paid,,,,,,,0,,Nav sūdzību,2023-12-13
+101011.0,,C0002,Electronics,TV Pro,1098.61,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+100557.0,2023-12-03,C0003,Electronics,NoiseCancel Headphones,186.46,1,Paid,R000029,Order 100557,2023-12-13,186.46,Processed,100557.0,1,,Nav sūdzību,2023-12-03
+100687.0,,C0006,Accessories,Laptop Sleeve,33.29,2,Paid,,,,,,,0,,Nav sūdzību,NaT
+100302.0,,C0057,Smart Home,NordCam Mini,96.99,1,Failed,,,,,,,0,,Nav sūdzību,NaT
+100400.0,,C0003,Accessories,Laptop Sleeve,36.68,2,Paid,,,,,,,0,,Nav sūdzību,NaT
+100664.0,,C0012,Accessories,Charger,47.42,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+100817.0,,C0002,Accessories,Phone Case,16.73,2,Paid,,,,,,,0,,Nav sūdzību,NaT
+100652.0,2023-12-05,C0011,Electronics,Tablet A,314.93,1,Paid,,,,,,,0,,Nav sūdzību,2023-12-05
+100163.0,2023-11-22,C0004,Accessories,Screen Protector,10.08,2,Paid,,,,,,,0,,Nav sūdzību,2023-11-22
+100469.0,2023-11-30,C0001,Electronics,NoiseCancel Headphones,260.09,1,Paid,,,,,,,0,,Nav sūdzību,2023-11-30
+100762.0,2023-12-07,C0009,Electronics,NoiseCancel Headphones,225.04,1,Paid,,,,,,,0,,Nav sūdzību,2023-12-07
+100598.0,2023-12-04,C0070,Accessories,Wireless Mouse,22.02,1,Paid,R000030,TX-100598,2023-12-09,,Rejected,100598.0,1,100598.0,Piegāde,2023-12-04
+101044.0,,C0001,Smart Home,NordLock Pro,185.8,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+100348.0,,C0220,Accessories,Phone Case,31.01,4,Paid,,,,,,,0,,Nav sūdzību,NaT
+100572.0,,C0002,Smart Home,NordLock Pro,192.26,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+100281.0,2023-11-25,C0017,Smart Home,NordCam Mini,91.1,1,Paid,,,,,,,0,,Nav sūdzību,2023-11-25
+100899.0,2023-12-10,C0001,Accessories,USB-C Cable,8.25,1,Paid,,,,,,,0,,Nav sūdzību,2023-12-10
+101070.0,,C0023,Smart Home,NordLock Pro,216.4,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+100716.0,,C0036,Accessories,Charger,44.54,4,Paid,,,,,,,0,,Nav sūdzību,NaT
+100010.0,2023-11-15,C0001,Accessories,Charger,32.57,3,Paid,,,,,,,0,,Nav sūdzību,2023-11-15
+100764.0,2023-12-07,C0006,Electronics,Smartphone Z,998.04,1,Paid,,,,,,,0,,Nav sūdzību,2023-12-07
+100271.0,2023-11-25,C0008,Electronics,Laptop X,1718.34,1,Paid,,,,,,,0,,Nav sūdzību,2023-11-25
+100984.0,,C0124,Electronics,NoiseCancel Headphones,247.73,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+100495.0,2023-12-01,C0004,Electronics,Smartphone Z,795.93,1,Paid,,,,,,,0,,Nav sūdzību,2023-12-01
+101022.0,2023-12-12,C0076,Electronics,Tablet A,565.36,1,Paid,,,,,,,0,101022.0,Lietotnes/Savienojuma kļūda,2023-12-12
+100286.0,2023-11-25,C0007,Electronics,Tablet A,732.66,1,Paid,,,,,,,0,,Nav sūdzību,2023-11-25
+100542.0,2023-12-02,C0077,Accessories,Laptop Sleeve,41.1,1,Pending,,,,,,,0,,Nav sūdzību,2023-12-02
+100977.0,2023-12-11,C0017,Smart Home,NordLock Pro,183.0,1,Paid,,,,,,,0,100977.0,Lietotnes/Savienojuma kļūda,2023-12-11
+100445.0,2023-11-30,C0001,Accessories,Accessory Bundle,34.98,1,Paid,,,,,,,0,,Nav sūdzību,2023-11-30
+101180.0,,C0015,Accessories,Laptop Sleeve,33.86,3,Paid,,,,,,,0,,Nav sūdzību,NaT
+100933.0,2023-12-11,C0003,Accessories,Laptop Sleeve,41.18,3,Paid,,,,,,,0,,Nav sūdzību,2023-12-11
+101073.0,2023-12-13,C0015,Smart Home,NordLock Pro,214.13,1,Paid,,,,,,,0,101073.0,Cits,2023-12-13
+100100.0,2023-11-19,C0143,Accessories,Charger,21.14,1,Paid,,,,,,,0,,Nav sūdzību,2023-11-19
+100847.0,2023-12-09,C0136,Accessories,Laptop Sleeve,43.74,1,Paid,,,,,,,0,,Nav sūdzību,2023-12-09
+100496.0,2023-12-01,C0032,Electronics,NoiseCancel Headphones,282.0,1,Paid,,,,,,,0,,Nav sūdzību,2023-12-01
+100433.0,2023-11-29,C0027,Electronics,NoiseCancel Headphones,306.26,1,Paid,,,,,,,0,,Nav sūdzību,2023-11-29
+100143.0,,C0002,Accessories,USB-C Cable,7.06,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+101134.0,2023-12-14,C0002,Smart Home,NordLock Pro,200.59,2,Paid,,,,,,,0,,Nav sūdzību,2023-12-14
+101197.0,2023-11-24,C0065,Smart Home,NordPlug,32.73,1,Paid,,,,,,,0,101197.0,Produkta brāķis,2023-11-24
+100167.0,2023-11-22,C0001,Electronics,Tablet A,499.07,1,Paid,,,,,,,0,,Nav sūdzību,2023-11-22
+100162.0,2023-11-22,C0081,Electronics,TV Pro,1615.87,1,Paid,,,,,,,0,100162.0,Lietotnes/Savienojuma kļūda,2023-11-22
+100643.0,2023-12-04,C0005,Smart Home,NordLock Pro,244.97,1,Paid,,,,,,,0,100643.0,Atgriešana/Atmaksas pieprasījums,2023-12-04
+100137.0,,C0001,Electronics,NoiseCancel Headphones,260.84,2,Paid,,,,,,,0,,Nav sūdzību,NaT
+100878.0,,C0001,Accessories,Laptop Sleeve,36.99,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+100017.0,2023-11-15,C0003,Accessories,Charger,26.91,1,Paid,,,,,,,0,,Nav sūdzību,2023-11-15
+100114.0,2023-11-19,C0148,Electronics,Tablet A,457.81,1,Paid,,,,,,,0,100114.0,Produkta brāķis,2023-11-19
+100008.0,,C0001,Accessories,Charger,36.45,3,Paid,,,,,,,0,,Nav sūdzību,NaT
+100196.0,2023-11-23,C0001,Electronics,Smartphone Z,1016.16,1,Paid,,,,,,,0,,Nav sūdzību,2023-11-23
+100866.0,2023-12-09,C0102,Electronics,NoiseCancel Headphones,233.49,1,Paid,,,,,,,0,100866.0,Atgriešana/Atmaksas pieprasījums,2023-12-09
+100174.0,2023-11-22,C0001,Smart Home,NordLock Pro,215.47,1,Paid,,,,,,,0,,Nav sūdzību,2023-11-22
+100447.0,2023-11-30,C0001,Accessories,Accessory Bundle,60.0,1,Paid,,,,,,,0,,Nav sūdzību,2023-11-30
+100101.0,2023-11-19,C0001,Accessories,Accessory Bundle,49.17,1,Paid,,,,,,,0,,Nav sūdzību,2023-11-19
+101092.0,,C0244,Smart Home,NordTherm,83.17,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+100580.0,,C0092,Accessories,Screen Protector,7.07,2,Paid,,,,,,,0,,Nav sūdzību,NaT
+100474.0,,C0002,Accessories,Charger,17.37,2,Paid,,,,,,,0,,Nav sūdzību,NaT
+100205.0,2023-11-23,C0024,Electronics,Laptop X,1339.22,1,Paid,,,,,,,0,,Nav sūdzību,2023-11-23
+100581.0,2023-12-03,C0027,Electronics,NoiseCancel Headphones,348.89,2,Paid,,,,,,,0,,Nav sūdzību,2023-12-03
+100157.0,2023-11-21,C0027,Electronics,Smartphone Z,787.19,2,Paid,,,,,,,0,,Nav sūdzību,2023-11-21
+100894.0,,C0002,Smart Home,NordLock Pro,221.02,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+101040.0,2023-12-12,C0015,Smart Home,NordLock Pro,195.56,1,Paid,,,,,,,0,,Nav sūdzību,2023-12-12
+100486.0,2023-12-01,C0007,Smart Home,NordLock Pro,237.0,2,Paid,,,,,,,0,,Nav sūdzību,2023-12-01
+100645.0,2023-12-04,C0076,Smart Home,NordLock Pro,200.03,1,Paid,R000031,TX-100645,2023-12-08,200.03,Processed,100645.0,1,,Nav sūdzību,2023-12-04
+101140.0,,C0042,Smart Home,NordLock Pro,223.67,2,Paid,,,,,,,0,,Nav sūdzību,NaT
+100712.0,2023-12-06,C0007,Accessories,Phone Case,16.5,3,Paid,,,,,,,0,,Nav sūdzību,2023-12-06
+100928.0,2023-12-10,C0002,Smart Home,NordCam Mini,59.35,1,Paid,,,,,,,0,,Nav sūdzību,2023-12-10
+101006.0,2023-12-12,C0187,Electronics,Tablet A,661.51,1,Paid,,,,,,,0,,Nav sūdzību,2023-12-12
+100004.0,2023-11-15,C0019,Accessories,Phone Case,36.72,1,Paid,R000032,Ref: 100004,2023-11-21,36.72,Processed,100004.0,1,,Nav sūdzību,2023-11-15
+100378.0,,C0229,Accessories,Charger,16.51,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+101021.0,2023-12-12,C0016,Smart Home,NordLock Pro,182.28,1,Paid,,,,,,,0,,Nav sūdzību,2023-12-12
+100359.0,2023-11-28,C0029,Electronics,TV Pro,1552.56,1,Paid,,,,,,,0,,Nav sūdzību,2023-11-28
+100429.0,,C0001,Accessories,Laptop Sleeve,26.0,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+100277.0,2023-11-25,C0008,Electronics,NoiseCancel Headphones,172.79,1,Paid,,,,,,,0,,Nav sūdzību,2023-11-25
+100267.0,2023-11-25,C0182,Smart Home,NordLock Pro,220.58,1,Paid,,,,,,,0,100267.0,Piegāde,2023-11-25
+100860.0,2023-12-09,C0009,Accessories,USB-C Cable,7.49,1,Paid,,,,,,,0,,Nav sūdzību,2023-12-09
+100943.0,,C0115,Accessories,Charger,15.61,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+100230.0,,C0003,Smart Home,NordPlug,30.79,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+101038.0,,C0002,Electronics,Laptop X,1674.1,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+100719.0,2023-12-06,C0007,Electronics,NoiseCancel Headphones,224.64,1,Paid,,,,,,,0,,Nav sūdzību,2023-12-06
+101009.0,2023-12-12,C0001,Electronics,NoiseCancel Headphones,255.44,1,Pending,,,,,,,0,,Nav sūdzību,2023-12-12
+100446.0,2023-11-30,C0026,Smart Home,NordLock Pro,219.4,1,Paid,,,,,,,0,100446.0,Cits,2023-11-30
+100761.0,2023-12-07,C0120,Accessories,Charger,49.62,3,Paid,,,,,,,0,,Nav sūdzību,2023-12-07
+100374.0,2023-11-28,C0001,Electronics,Tablet A,798.57,1,Paid,R000033,Ref: 100374,2023-12-04,798.57,Processed,100374.0,1,,Nav sūdzību,2023-11-28
+100826.0,,C0001,Smart Home,NordLock Pro,188.48,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+100695.0,,C0260,Electronics,Laptop X,1595.69,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+100870.0,2023-12-09,C0005,Smart Home,NordLock Pro,180.98,1,Paid,,,,,,,0,,Nav sūdzību,2023-12-09
+100117.0,,C0001,Electronics,Laptop X,1769.87,1,Pending,,,,,,,0,,Nav sūdzību,NaT
+100223.0,2023-11-24,C0114,Accessories,Laptop Sleeve,15.24,1,Paid,,,,,,,0,100223.0,Cits,2023-11-24
+100459.0,2023-11-30,C0004,Accessories,Phone Case,13.42,1,Paid,,,,,,,0,100459.0,Lietotnes/Savienojuma kļūda,2023-11-30
+100618.0,2023-12-04,C0218,Accessories,Wireless Mouse,24.87,2,Paid,,,,,,,0,,Nav sūdzību,2023-12-04
+101193.0,2023-12-12,C0187,Electronics,Tablet A,661.51,1,Paid,R000034,Order 101193,2023-12-27,11.14,Rejected,101193.0,1,,Nav sūdzību,2023-12-12
+100201.0,2023-11-23,C0030,Accessories,Phone Case,36.25,1,Paid,,,,,,,0,,Nav sūdzību,2023-11-23
+100550.0,2023-12-02,C0016,Accessories,Wireless Mouse,40.97,1,Paid,,,,,,,0,,Nav sūdzību,2023-12-02
+100654.0,2023-12-05,C0019,Electronics,Tablet A,466.0,1,Paid,,,,,,,0,,Nav sūdzību,2023-12-05
+100343.0,,C0060,Accessories,USB-C Cable,20.0,4,Paid,,,,,,,0,,Nav sūdzību,NaT
+101083.0,,C0024,Accessories,USB-C Cable,7.31,2,Paid,,,,,,,0,,Nav sūdzību,NaT
+100632.0,2023-12-04,C0021,Electronics,Tablet A,331.45,1,Paid,,,,,,,0,,Nav sūdzību,2023-12-04
+100006.0,2023-11-15,C0065,Electronics,Tablet A,728.62,1,Paid,,,,,,,0,,Nav sūdzību,2023-11-15
+100109.0,,C0001,Electronics,NoiseCancel Headphones,174.17,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+100502.0,,C0038,Accessories,Accessory Bundle,55.24,3,Paid,,,,,,,0,,Nav sūdzību,NaT
+100392.0,2023-11-28,C0026,Accessories,Charger,28.59,1,Paid,,,,,,,0,100392.0,Produkta brāķis,2023-11-28
+100942.0,2023-12-11,C0018,Smart Home,NordLock Pro,228.75,1,Paid,R000035,Order 100942,2023-12-21,228.75,Processed,100942.0,1,,Nav sūdzību,2023-12-11
+100518.0,2023-12-02,C0003,Smart Home,NordTherm,114.81,1,Paid,,,,,,,0,,Nav sūdzību,2023-12-02
+100480.0,2023-11-30,C0001,Electronics,Laptop X,1688.15,1,Paid,,,,,,,0,,Nav sūdzību,2023-11-30
+100800.0,,C0130,Electronics,NoiseCancel Headphones,218.36,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+100035.0,2023-11-16,C0103,Electronics,Laptop X,1462.0,1,Paid,,,,,,,0,,Nav sūdzību,2023-11-16
+100920.0,2023-12-10,C0013,Electronics,Smartphone Z,1052.91,2,Paid,,,,,,,0,,Nav sūdzību,2023-12-10
+100009.0,,C0001,Electronics,NoiseCancel Headphones,250.52,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+100790.0,2023-12-07,C0041,Accessories,Laptop Sleeve,25.0,1,Paid,,,,,,,0,100790.0,Piegāde,2023-12-07
+100527.0,2023-12-02,C0028,Smart Home,NordLock Pro,219.22,1,Failed,,,,,,,0,,Nav sūdzību,2023-12-02
+100232.0,,C0252,Smart Home,NordLock Pro,249.0,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+100320.0,,C0001,Accessories,Laptop Sleeve,41.3,2,Failed,,,,,,,0,,Nav sūdzību,NaT
+100441.0,2023-11-30,C0303,Accessories,Wireless Mouse,23.0,1,Paid,,,,,,,0,,Nav sūdzību,2023-11-30
+100526.0,,C0010,Smart Home,NordLock Pro,196.94,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+100625.0,2023-12-04,C0001,Accessories,Accessory Bundle,75.73,1,Paid,,,,,,,0,,Nav sūdzību,2023-12-04
+100611.0,2023-12-04,C0024,Accessories,Phone Case,10.55,3,Paid,,,,,,,0,,Nav sūdzību,2023-12-04
+100073.0,2023-11-18,C0001,Smart Home,NordLock Pro,230.39,1,Paid,,,,,,,0,,Nav sūdzību,2023-11-18
+100349.0,,C0044,Electronics,NoiseCancel Headphones,157.01,2,Paid,,,,,,,0,,Nav sūdzību,NaT
+100973.0,2023-12-11,C0001,Smart Home,NordLock Pro,186.97,1,Paid,,,,,,,0,,Nav sūdzību,2023-12-11
+100095.0,,C0028,Accessories,Phone Case,27.74,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+100544.0,2023-12-02,C0001,Accessories,USB-C Cable,15.85,4,Paid,,,,,,,0,,Nav sūdzību,2023-12-02
+101169.0,2023-11-30,C0001,Accessories,Wireless Mouse,49.02,1,Paid,,,,,,,0,,Nav sūdzību,2023-11-30
+100210.0,,C0002,Electronics,Tablet A,367.82,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+100176.0,2023-11-22,C0007,Electronics,NoiseCancel Headphones,163.31,1,Failed,,,,,,,0,,Nav sūdzību,2023-11-22
+100481.0,2023-11-30,C0003,Accessories,Laptop Sleeve,22.0,1,Paid,,,,,,,0,,Nav sūdzību,2023-11-30
+100282.0,,C0035,Electronics,NoiseCancel Headphones,176.84,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+100107.0,2023-11-19,C0001,Accessories,Accessory Bundle,62.22,1,Paid,,,,,,,0,,Nav sūdzību,2023-11-19
+101005.0,2023-12-12,C0003,Accessories,Wireless Mouse,53.67,1,Paid,,,,,,,0,101005.0,Piegāde,2023-12-12
+100834.0,2023-12-08,C0001,Accessories,Charger,39.15,2,Paid,,,,,,,0,,Nav sūdzību,2023-12-08
+100252.0,2023-11-24,C0312,Accessories,Charger,26.0,1,Paid,,,,,,,0,100252.0,Cits,2023-11-24
+101166.0,2023-11-17,C0003,Electronics,Tablet A,336.05,2,Paid,,,,,,,0,,Nav sūdzību,2023-11-17
+100390.0,2023-11-28,C0002,Accessories,Charger,30.55,2,Paid,,,,,,,0,,Nav sūdzību,2023-11-28
+100929.0,2023-12-10,C0083,Accessories,Phone Case,22.44,1,Paid,,,,,,,0,100929.0,Piegāde,2023-12-10
+100939.0,2023-12-11,C0001,Accessories,USB-C Cable,11.22,1,Paid,,,,,,,0,,Nav sūdzību,2023-12-11
+100328.0,2023-11-27,C0001,Accessories,Phone Case,10.0,3,Paid,,,,,,,0,,Nav sūdzību,2023-11-27
+100969.0,2023-12-11,C0006,Accessories,Screen Protector,13.28,1,Paid,,,,,,,0,100969.0,Lietotnes/Savienojuma kļūda,2023-12-11
+100013.0,,C0261,Accessories,Laptop Sleeve,33.9,2,Paid,,,,,,,0,,Nav sūdzību,NaT
+101026.0,2023-12-12,C0001,Electronics,Smartphone Z,829.05,1,Paid,,,,,,,0,,Nav sūdzību,2023-12-12
+100669.0,,C0002,Smart Home,NordPlug,31.3,2,Paid,,,,,,,0,,Nav sūdzību,NaT
+101074.0,,C0048,Smart Home,NordLock Pro,235.67,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+100937.0,,C0076,Electronics,Smartphone Z,889.83,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+101076.0,2023-12-13,C0005,Smart Home,NordLock Pro,187.08,1,Paid,,,,,,,0,101076.0,Piegāde,2023-12-13
+100934.0,2023-12-11,C0002,Accessories,Charger,38.56,1,Paid,,,,,,,0,,Nav sūdzību,2023-12-11
+100989.0,,C0040,Smart Home,NordLock Pro,185.28,2,Paid,,,,,,,0,,Nav sūdzību,NaT
+100214.0,,C0002,Smart Home,NordLock Pro,212.69,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+100217.0,2023-11-23,C0001,Electronics,Smartphone Z,706.71,2,Paid,,,,,,,0,,Nav sūdzību,2023-11-23
+100917.0,2023-12-10,C0007,Electronics,TV Pro,1563.41,1,Paid,,,,,,,0,,Nav sūdzību,2023-12-10
+100614.0,2023-12-04,C0002,Accessories,Wireless Mouse,28.43,1,Paid,,,,,,,0,,Nav sūdzību,2023-12-04
+100823.0,2023-12-08,C0001,Smart Home,NordLock Pro,229.47,1,Paid,,,,,,,0,,Nav sūdzību,2023-12-08
+100423.0,,C0021,Accessories,Screen Protector,14.89,2,Paid,,,,,,,0,,Nav sūdzību,NaT
+100999.0,2023-12-12,C0052,Smart Home,NordLock Pro,207.41,1,Paid,,,,,,,0,100999.0,Cits,2023-12-12
+100568.0,2023-12-03,C0083,Smart Home,NordCam Mini,63.87,1,Paid,,,,,,,0,100568.0,Produkta brāķis,2023-12-03
+100422.0,,C0001,Electronics,Laptop X,1419.85,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+100069.0,2023-11-17,C0006,Accessories,Phone Case,34.42,2,Paid,,,,,,,0,,Nav sūdzību,2023-11-17
+100554.0,2023-12-02,C0003,Accessories,Accessory Bundle,84.79,4,Paid,,,,,,,0,,Nav sūdzību,2023-12-02
+100086.0,,C0001,Electronics,TV Pro,1344.25,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+100247.0,2023-11-24,C0005,Smart Home,NordLock Pro,229.97,1,Paid,,,,,,,0,,Nav sūdzību,2023-11-24
+100467.0,,C0001,Electronics,Tablet A,359.78,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+100430.0,,C0099,Electronics,Smartphone Z,1003.81,2,Paid,,,,,,,0,,Nav sūdzību,NaT
+100418.0,2023-11-29,C0002,Electronics,Smartphone Z,741.1,1,Paid,,,,,,,0,,Nav sūdzību,2023-11-29
+100413.0,2023-11-29,C0094,Electronics,NoiseCancel Headphones,245.0,1,Paid,,,,,,,0,,Nav sūdzību,2023-11-29
+100647.0,2023-12-05,C0071,Electronics,Smartphone Z,796.55,1,Paid,,,,,,,0,,Nav sūdzību,2023-12-05
+100197.0,,C0001,Electronics,Tablet A,308.88,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+100226.0,2023-11-24,C0002,Electronics,TV Pro,1686.65,1,Paid,,,,,,,0,,Nav sūdzību,2023-11-24
+100729.0,,C0003,Accessories,Charger,21.85,2,Paid,,,,,,,0,,Nav sūdzību,NaT
+100285.0,2023-11-25,C0020,Electronics,TV Pro,1544.21,1,Paid,,,,,,,0,100285.0,Produkta brāķis,2023-11-25
+100660.0,2023-12-05,C0014,Smart Home,NordCam Mini,89.26,2,Paid,,,,,,,0,,Nav sūdzību,2023-12-05
+100879.0,,C0030,Smart Home,NordLock Pro,202.78,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+100112.0,2023-11-19,C0042,Smart Home,NordLock Pro,194.0,1,Paid,,,,,,,0,,Nav sūdzību,2023-11-19
+100545.0,2023-12-02,C0032,Electronics,Laptop X,1364.71,1,Paid,,,,,,,0,,Nav sūdzību,2023-12-02
+101123.0,2023-12-14,C0002,Electronics,TV Pro,1327.0,1,Pending,,,,,,,0,,Nav sūdzību,2023-12-14
+100993.0,2023-12-12,C0003,Electronics,Tablet A,654.25,1,Paid,,,,,,,0,,Nav sūdzību,2023-12-12
+100685.0,,C0034,Electronics,TV Pro,1683.74,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+100818.0,2023-12-08,C0033,Electronics,Smartphone Z,900.82,1,Paid,,,,,,,0,100818.0,Lietotnes/Savienojuma kļūda,2023-12-08
+100381.0,2023-11-28,C0073,Electronics,Tablet A,565.48,1,Paid,,,,,,,0,100381.0,Atgriešana/Atmaksas pieprasījums,2023-11-28
+100500.0,2023-12-01,C0002,Smart Home,NordLock Pro,214.0,1,Paid,,,,,,,0,,Nav sūdzību,2023-12-01
+101042.0,,C0001,Smart Home,NordLock Pro,245.35,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+100926.0,2023-12-10,C0229,Smart Home,NordTherm,126.44,1,Paid,,,,,,,0,100926.0,Produkta brāķis,2023-12-10
+100780.0,2023-12-07,C0003,Accessories,Laptop Sleeve,36.14,2,Paid,,,,,,,0,,Nav sūdzību,2023-12-07
+100291.0,2023-11-25,C0003,Electronics,Smartphone Z,1056.7,1,Paid,,,,,,,0,,Nav sūdzību,2023-11-25
+100389.0,2023-11-28,C0001,Smart Home,NordLock Pro,210.88,1,Paid,,,,,,,0,,Nav sūdzību,2023-11-28
+100360.0,2023-11-28,C0001,Electronics,TV Pro,1020.44,1,Paid,,,,,,,0,,Nav sūdzību,2023-11-28
+100407.0,2023-11-29,C0001,Electronics,Laptop X,1506.44,1,Paid,,,,,,,0,,Nav sūdzību,2023-11-29
+100365.0,2023-11-28,C0023,Electronics,TV Pro,1015.17,1,Paid,R000036,Ref: 100365,2023-12-06,1015.17,Processed,100365.0,1,,Nav sūdzību,2023-11-28
+100525.0,,C0001,Electronics,Smartphone Z,899.0,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+100575.0,2023-12-03,C0203,Electronics,TV Pro,1308.91,1,Paid,,,,,,,0,100575.0,Piegāde,2023-12-03
+100683.0,2023-12-05,C0187,Accessories,Accessory Bundle,87.5,1,Pending,,,,,,,0,,Nav sūdzību,2023-12-05
+101033.0,2023-12-12,C0002,Smart Home,NordLock Pro,208.0,2,Paid,R000037,TX-101033,2023-12-21,416.0,Processed,101033.0,1,,Nav sūdzību,2023-12-12
+100694.0,2023-12-06,C0002,Electronics,Tablet A,362.0,1,Paid,,,,,,,0,,Nav sūdzību,2023-12-06
+100705.0,,C0083,Smart Home,NordLock Pro,203.62,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+100702.0,2023-12-06,C0149,Electronics,NoiseCancel Headphones,203.0,1,Paid,,,,,,,0,,Nav sūdzību,2023-12-06
+100113.0,2023-11-19,C0003,Accessories,Laptop Sleeve,36.03,2,Paid,,,,,,,0,,Nav sūdzību,2023-11-19
+100103.0,,C0005,Electronics,Tablet A,647.19,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+100415.0,2023-11-29,C0015,Electronics,NoiseCancel Headphones,327.37,1,Pending,,,,,,,0,,Nav sūdzību,2023-11-29
+100590.0,2023-12-03,C0003,Electronics,Laptop X,1488.81,1,Paid,,,,,,,0,,Nav sūdzību,2023-12-03
+100191.0,2023-11-23,C0062,Electronics,Tablet A,382.77,1,Paid,,,,,,,0,,Nav sūdzību,2023-11-23
+101137.0,2023-12-14,C0014,Electronics,Laptop X,1653.81,1,Paid,,,,,,,0,101137.0,Lietotnes/Savienojuma kļūda,2023-12-14
+100957.0,2023-12-11,C0007,Accessories,Accessory Bundle,44.45,1,Paid,,,,,,,0,,Nav sūdzību,2023-12-11
+100741.0,2023-12-07,C0015,Electronics,NoiseCancel Headphones,163.13,1,Paid,,,,,,,0,,Nav sūdzību,2023-12-07
+100053.0,2023-11-17,C0003,Electronics,NoiseCancel Headphones,266.47,1,Paid,,,,,,,0,,Nav sūdzību,2023-11-17
+100029.0,,C0011,Accessories,Screen Protector,8.6,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+100066.0,2023-11-17,C0048,Electronics,Laptop X,1460.0,1,Paid,,,,,,,0,100066.0,Lietotnes/Savienojuma kļūda,2023-11-17
+100875.0,2023-12-09,C0016,Electronics,Tablet A,496.6,1,Paid,,,,,,,0,,Nav sūdzību,2023-12-09
+100246.0,2023-11-24,C0017,Accessories,Phone Case,34.84,1,Paid,,,,,,,0,,Nav sūdzību,2023-11-24
+100803.0,2023-12-08,C0241,Electronics,Tablet A,474.94,1,Paid,,,,,,,0,,Nav sūdzību,2023-12-08
+101078.0,,C0006,Accessories,Charger,25.23,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+101127.0,,C0001,Accessories,Phone Case,24.22,3,Paid,,,,,,,0,,Nav sūdzību,NaT
+100844.0,2023-12-08,C0067,Electronics,TV Pro,1183.75,1,Paid,,,,,,,0,,Nav sūdzību,2023-12-08
+100595.0,2023-12-03,C0023,Electronics,NoiseCancel Headphones,265.61,1,Paid,,,,,,,0,,Nav sūdzību,2023-12-03
+100309.0,2023-11-26,C0002,Accessories,Wireless Mouse,54.66,4,Paid,,,,,,,0,,Nav sūdzību,2023-11-26
+100903.0,2023-12-10,C0001,Smart Home,NordLock Pro,228.51,1,Paid,,,,,,,0,,Nav sūdzību,2023-12-10
+100387.0,,C0001,Accessories,Phone Case,39.44,2,Paid,,,,,,,0,,Nav sūdzību,NaT
+100872.0,,C0003,Electronics,Tablet A,696.0,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+100355.0,2023-11-28,C0001,Electronics,Smartphone Z,917.35,2,Paid,,,,,,,0,,Nav sūdzību,2023-11-28
+101023.0,2023-12-12,C0001,Accessories,Charger,18.52,1,Paid,,,,,,,0,,Nav sūdzību,2023-12-12
+100160.0,2023-11-21,C0001,Accessories,Screen Protector,13.38,1,Paid,,,,,,,0,,Nav sūdzību,2023-11-21
+100187.0,2023-11-22,C0245,Accessories,USB-C Cable,7.37,3,Paid,,,,,,,0,,Nav sūdzību,2023-11-22
+100245.0,2023-11-24,C0041,Electronics,Laptop X,1469.0,1,Paid,,,,,,,0,,Nav sūdzību,2023-11-24
+100076.0,2023-11-18,C0007,Electronics,Laptop X,1388.82,1,Paid,,,,,,,0,,Nav sūdzību,2023-11-18
+100158.0,,C0228,Smart Home,NordCam Mini,93.0,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+100127.0,,C0064,Accessories,Charger,21.16,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+100745.0,,C0004,Accessories,Screen Protector,10.85,2,Paid,,,,,,,0,,Nav sūdzību,NaT
+100724.0,,C0002,Electronics,NoiseCancel Headphones,172.37,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+100323.0,2023-11-27,C0006,Accessories,Charger,34.9,1,Paid,,,,,,,0,,Nav sūdzību,2023-11-27
+100874.0,2023-12-09,C0001,Electronics,Laptop X,1451.05,1,Paid,,,,,,,0,,Nav sūdzību,2023-12-09
+101054.0,2023-12-13,C0114,Electronics,Laptop X,1363.58,1,Paid,,,,,,,0,,Nav sūdzību,2023-12-13
+100805.0,,C0060,Electronics,TV Pro,1323.1,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+100213.0,2023-11-23,C0135,Electronics,Tablet A,522.41,1,Paid,,,,,,,0,100213.0,Lietotnes/Savienojuma kļūda,2023-11-23
+100778.0,,C0001,Accessories,Laptop Sleeve,27.03,2,Paid,,,,,,,0,,Nav sūdzību,NaT
+100104.0,2023-11-19,C0004,Electronics,Laptop X,1568.65,1,Paid,,,,,,,0,,Nav sūdzību,2023-11-19
+100754.0,2023-12-07,C0006,Accessories,Charger,30.68,2,Paid,,,,,,,0,100754.0,Produkta brāķis,2023-12-07
+101110.0,2023-12-14,C0001,Electronics,Tablet A,386.48,1,Paid,,,,,,,0,,Nav sūdzību,2023-12-14
+100960.0,2023-12-11,C0001,Electronics,TV Pro,969.19,1,Paid,,,,,,,0,,Nav sūdzību,2023-12-11
+100846.0,2023-12-09,C0054,Accessories,Laptop Sleeve,41.46,3,Paid,,,,,,,0,100846.0,Lietotnes/Savienojuma kļūda,2023-12-09
+101194.0,,C0042,Electronics,TV Pro,1610.06,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+100521.0,,C0002,Smart Home,NordPlug,16.97,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+101136.0,2023-12-14,C0007,Electronics,Smartphone Z,1070.71,2,Paid,,,,,,,0,,Nav sūdzību,2023-12-14
+100771.0,,C0030,Accessories,Laptop Sleeve,20.44,2,Paid,,,,,,,0,,Nav sūdzību,NaT
+100229.0,2023-11-24,C0002,Accessories,Phone Case,10.91,2,Paid,,,,,,,0,,Nav sūdzību,2023-11-24
+100750.0,2023-12-07,C0003,Smart Home,NordLock Pro,190.45,2,Paid,R000038,Ref: 100750,2023-12-12,380.9,Processed,100750.0,1,,Nav sūdzību,2023-12-07
+100876.0,2023-12-09,C0007,Accessories,USB-C Cable,16.85,3,Paid,,,,,,,0,,Nav sūdzību,2023-12-09
+100183.0,,C0094,Smart Home,NordLock Pro,221.01,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+100975.0,,C0001,Smart Home,NordLock Pro,187.04,1,Failed,,,,,,,0,,Nav sūdzību,NaT
+101016.0,2023-12-12,C0001,Electronics,TV Pro,1462.11,1,Paid,,,,,,,0,,Nav sūdzību,2023-12-12
+100198.0,2023-11-23,C0156,Electronics,NoiseCancel Headphones,296.85,1,Paid,,,,,,,0,,Nav sūdzību,2023-11-23
+100794.0,,C0038,Electronics,Tablet A,588.66,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+100670.0,2023-12-05,C0024,Electronics,NoiseCancel Headphones,250.75,1,Paid,,,,,,,0,,Nav sūdzību,2023-12-05
+100463.0,2023-11-30,C0013,Accessories,USB-C Cable,8.39,1,Paid,,,,,,,0,,Nav sūdzību,2023-11-30
+100452.0,,C0072,Electronics,Smartphone Z,983.68,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+100090.0,,C0003,Electronics,Smartphone Z,717.75,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+101139.0,,C0044,Electronics,NoiseCancel Headphones,157.01,2,Paid,,,,,,,0,,Nav sūdzību,NaT
+101096.0,,C0086,Smart Home,NordCam Mini,85.43,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+100487.0,2023-12-01,C0240,Accessories,Accessory Bundle,27.89,1,Paid,R000039,TX-100487,2023-12-05,27.89,Processed,100487.0,1,100487.0,Produkta brāķis,2023-12-01
+100051.0,2023-11-17,C0006,Electronics,Tablet A,740.0,1,Paid,,,,,,,0,,Nav sūdzību,2023-11-17
+100700.0,2023-12-06,C0001,Electronics,Tablet A,549.96,1,Failed,,,,,,,0,,Nav sūdzību,2023-12-06
+100854.0,2023-12-09,C0084,Accessories,Wireless Mouse,26.0,1,Paid,,,,,,,0,100854.0,Produkta brāķis,2023-12-09
+100416.0,2023-11-29,C0125,Accessories,Laptop Sleeve,39.4,3,Paid,,,,,,,0,,Nav sūdzību,2023-11-29
+100677.0,,C0207,Electronics,Smartphone Z,735.52,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+100367.0,,C0016,Electronics,Tablet A,740.02,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+100535.0,,C0001,Smart Home,NordLock Pro,220.39,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+100831.0,,C0042,Electronics,Laptop X,1620.72,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+100235.0,2023-11-24,C0002,Electronics,Tablet A,386.12,1,Paid,,,,,,,0,,Nav sūdzību,2023-11-24
+100490.0,,C0001,Accessories,Laptop Sleeve,34.29,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+100681.0,2023-12-05,C0002,Electronics,Laptop X,1495.01,1,Paid,,,,,,,0,,Nav sūdzību,2023-12-05
+101007.0,2023-12-12,C0008,Electronics,Tablet A,332.54,1,Paid,,,,,,,0,,Nav sūdzību,2023-12-12
+100868.0,2023-12-09,C0002,Smart Home,NordLock Pro,187.0,2,Paid,R000040, TX - 100868 ,2023-12-15,374.0,Processed,100868.0,1,,Nav sūdzību,2023-12-09
+100582.0,2023-12-03,C0257,Electronics,Laptop X,1783.31,1,Failed,,,,,,,0,,Nav sūdzību,2023-12-03
+100402.0,2023-11-29,C0022,Electronics,Laptop X,1456.95,2,Paid,,,,,,,0,,Nav sūdzību,2023-11-29
+100699.0,,C0057,Accessories,Screen Protector,6.05,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+100738.0,,C0138,Accessories,Charger,34.63,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+100439.0,2023-11-30,C0001,Smart Home,NordLock Pro,216.05,1,Paid,,,,,,,0,,Nav sūdzību,2023-11-30
+100528.0,,C0239,Accessories,Wireless Mouse,33.63,2,Paid,,,,,,,0,,Nav sūdzību,NaT
+100995.0,,C0041,Accessories,Accessory Bundle,96.03,3,Paid,,,,,,,0,,Nav sūdzību,NaT
+100369.0,,C0006,Electronics,Laptop X,1403.95,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+100877.0,2023-12-09,C0002,Smart Home,NordLock Pro,218.56,1,Paid,,,,,,,0,,Nav sūdzību,2023-12-09
+100718.0,2023-12-06,C0109,Smart Home,NordLock Pro,195.57,1,Failed,,,,,,,0,,Nav sūdzību,2023-12-06
+100864.0,2023-12-09,C0001,Accessories,Laptop Sleeve,23.0,1,Paid,,,,,,,0,,Nav sūdzību,2023-12-09
+100152.0,,C0056,Accessories,Laptop Sleeve,19.03,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+101171.0,,C0009,Smart Home,NordTherm,106.57,1,Failed,,,,,,,0,,Nav sūdzību,NaT
+100133.0,,C0001,Accessories,USB-C Cable,18.72,3,Paid,,,,,,,0,,Nav sūdzību,NaT
+100739.0,2023-12-07,C0061,Electronics,Smartphone Z,1073.23,1,Paid,,,,,,,0,,Nav sūdzību,2023-12-07
+100030.0,2023-11-16,C0027,Accessories,USB-C Cable,7.17,2,Paid,,,,,,,0,,Nav sūdzību,2023-11-16
+100640.0,2023-12-04,C0257,Smart Home,NordLock Pro,224.35,1,Paid,,,,,,,0,100640.0,Produkta brāķis,2023-12-04
+100941.0,,C0004,Accessories,USB-C Cable,16.0,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+100239.0,2023-11-24,C0126,Accessories,USB-C Cable,9.1,1,Paid,,,,,,,0,100239.0,Produkta brāķis,2023-11-24
+100674.0,2023-12-05,C0002,Electronics,Laptop X,1614.66,1,Paid,,,,,,,0,,Nav sūdzību,2023-12-05
+101170.0,2023-11-17,C0157,Electronics,Tablet A,479.0,1,Paid,,,,,,,0,,Nav sūdzību,2023-11-17
+100774.0,2023-12-07,C0058,Smart Home,NordLock Pro,248.12,1,Paid,,,,,,,0,100774.0,Cits,2023-12-07
+101010.0,2023-12-12,C0016,Accessories,Laptop Sleeve,15.7,3,Paid,,,,,,,0,101010.0,Cits,2023-12-12
+100324.0,2023-11-27,C0002,Accessories,Screen Protector,12.57,4,Paid,,,,,,,0,,Nav sūdzību,2023-11-27
+100629.0,,C0002,Smart Home,NordTherm,117.11,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+101144.0,2023-12-03,C0012,Accessories,Wireless Mouse,51.21,1,Pending,,,,,,,0,,Nav sūdzību,2023-12-03
+100855.0,2023-12-09,C0005,Electronics,NoiseCancel Headphones,190.71,1,Paid,,,,,,,0,,Nav sūdzību,2023-12-09
+100770.0,,C0001,Accessories,Phone Case,27.76,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+100746.0,2023-12-07,C0198,Smart Home,NordLock Pro,235.6,1,Paid,,,,,,,0,100746.0,Cits,2023-12-07
+101165.0,2023-12-11,C0002,Accessories,Charger,38.56,1,Paid,R000041,Ref: 101165,2023-12-20,10.75,Rejected,101165.0,1,101165.0,Piegāde,2023-12-11
+101138.0,2023-11-28,C0237,Smart Home,NordLock Pro,208.61,2,Paid,,,,,,,0,,Nav sūdzību,2023-11-28
+100380.0,,C0031,Electronics,TV Pro,1095.55,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+100559.0,,C0001,Accessories,Wireless Mouse,35.34,3,Paid,,,,,,,0,,Nav sūdzību,NaT
+100516.0,2023-12-02,C0003,Accessories,Screen Protector,12.0,2,Paid,,,,,,,0,,Nav sūdzību,2023-12-02
+100881.0,2023-12-09,C0267,Smart Home,NordLock Pro,228.02,1,Paid,,,,,,,0,100881.0,Piegāde,2023-12-09
+100952.0,,C0001,Accessories,USB-C Cable,13.8,2,Paid,,,,,,,0,,Nav sūdzību,NaT
+101008.0,,C0004,Smart Home,NordLock Pro,242.09,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+100748.0,2023-12-07,C0002,Accessories,Accessory Bundle,84.53,1,Paid,,,,,,,0,100748.0,Lietotnes/Savienojuma kļūda,2023-12-07
+100031.0,,C0001,Accessories,Charger,44.8,1,Failed,,,,,,,0,,Nav sūdzību,NaT
+100667.0,2023-12-05,C0001,Accessories,Laptop Sleeve,26.6,1,Paid,,,,,,,0,,Nav sūdzību,2023-12-05
+101186.0,2023-12-12,C0001,Accessories,USB-C Cable,13.0,3,Paid,,,,,,,0,,Nav sūdzību,2023-12-12
+100351.0,2023-11-27,C0002,Electronics,Laptop X,1494.48,1,Paid,,,,,,,0,,Nav sūdzību,2023-11-27
+101172.0,,C0094,Smart Home,NordLock Pro,221.01,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+101036.0,2023-12-12,C0035,Accessories,Laptop Sleeve,28.0,1,Paid,,,,,,,0,,Nav sūdzību,2023-12-12
+100792.0,2023-12-07,C0003,Smart Home,NordLock Pro,246.21,1,Paid,,,,,,,0,,Nav sūdzību,2023-12-07
+100052.0,,C0003,Accessories,Screen Protector,12.69,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+100508.0,2023-12-01,C0001,Smart Home,NordLock Pro,225.99,2,Pending,,,,,,,0,,Nav sūdzību,2023-12-01
+100037.0,2023-11-16,C0055,Smart Home,NordLock Pro,222.22,1,Paid,,,,,,,0,,Nav sūdzību,2023-11-16
+100610.0,2023-12-04,C0004,Smart Home,NordPlug,32.97,2,Paid,,,,,,,0,,Nav sūdzību,2023-12-04
+100079.0,,C0011,Accessories,Laptop Sleeve,44.0,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+100014.0,2023-11-15,C0115,Accessories,Charger,19.07,1,Paid,,,,,,,0,,Nav sūdzību,2023-11-15
+100676.0,2023-12-05,C0025,Electronics,NoiseCancel Headphones,247.0,1,Failed,,,,,,,0,,Nav sūdzību,2023-12-05
+100059.0,2023-11-17,C0157,Electronics,Tablet A,479.0,1,Paid,,,,,,,0,100059.0,Produkta brāķis,2023-11-17
+100576.0,,C0023,Electronics,Smartphone Z,976.35,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+100234.0,2023-11-24,C0003,Electronics,Tablet A,525.74,1,Paid,,,,,,,0,,Nav sūdzību,2023-11-24
+100744.0,2023-12-07,C0001,Smart Home,NordCam Mini,58.18,1,Failed,,,,,,,0,,Nav sūdzību,2023-12-07
+100479.0,2023-11-30,C0003,Accessories,Accessory Bundle,92.28,1,Paid,,,,,,,0,,Nav sūdzību,2023-11-30
+101000.0,,C0009,Smart Home,NordLock Pro,191.58,1,Pending,,,,,,,0,,Nav sūdzību,NaT
+100194.0,2023-11-23,C0055,Electronics,TV Pro,965.81,1,Pending,,,,,,,0,,Nav sūdzību,2023-11-23
+100405.0,2023-11-29,C0204,Accessories,Phone Case,24.0,1,Paid,,,,,,,0,,Nav sūdzību,2023-11-29
+100884.0,,C0009,Electronics,TV Pro,1041.39,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+100488.0,2023-12-01,C0003,Smart Home,NordTherm,109.04,1,Paid,,,,,,,0,,Nav sūdzību,2023-12-01
+100472.0,2023-11-30,C0009,Accessories,Phone Case,26.0,1,Paid,,,,,,,0,,Nav sūdzību,2023-11-30
+100257.0,2023-11-24,C0013,Accessories,Accessory Bundle,40.65,3,Paid,,,,,,,0,100257.0,Piegāde,2023-11-24
+100895.0,2023-12-10,C0014,Electronics,Laptop X,1779.0,1,Paid,,,,,,,0,,Nav sūdzību,2023-12-10
+101091.0,2023-12-14,C0001,Electronics,NoiseCancel Headphones,158.87,1,Paid,,,,,,,0,,Nav sūdzību,2023-12-14
+100139.0,,C0198,Electronics,Smartphone Z,798.87,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+100492.0,,C0025,Electronics,TV Pro,1384.66,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+100579.0,2023-12-03,C0045,Accessories,Accessory Bundle,86.12,2,Paid,,,,,,,0,,Nav sūdzību,2023-12-03
+100707.0,2023-12-06,C0029,Accessories,Wireless Mouse,41.44,1,Paid,,,,,,,0,,Nav sūdzību,2023-12-06
+100849.0,,C0026,Accessories,Laptop Sleeve,17.69,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+101179.0,2023-11-22,C0245,Accessories,USB-C Cable,7.37,3,Paid,,,,,,,0,,Nav sūdzību,2023-11-22
+100001.0,,C0001,Accessories,Phone Case,13.56,2,Paid,,,,,,,0,,Nav sūdzību,NaT
+100227.0,2023-11-24,C0015,Accessories,Screen Protector,13.01,3,Paid,,,,,,,0,,Nav sūdzību,2023-11-24
+100250.0,2023-11-24,C0057,Smart Home,NordLock Pro,203.53,1,Paid,,,,,,,0,,Nav sūdzību,2023-11-24
+100890.0,2023-12-09,C0001,Smart Home,NordPlug,31.47,1,Paid,,,,,,,0,,Nav sūdzību,2023-12-09
+100706.0,2023-12-06,C0010,Smart Home,NordLock Pro,181.27,1,Paid,,,,,,,0,,Nav sūdzību,2023-12-06
+100980.0,,C0145,Accessories,Screen Protector,5.13,4,Paid,,,,,,,0,,Nav sūdzību,NaT
+101030.0,,C0005,Electronics,Laptop X,1456.47,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+100284.0,2023-11-25,C0001,Electronics,Tablet A,671.18,1,Paid,,,,,,,0,,Nav sūdzību,2023-11-25
+100314.0,2023-11-26,C0004,Smart Home,NordCam Mini,87.73,1,Paid,,,,,,,0,,Nav sūdzību,2023-11-26
+100597.0,2023-12-04,C0176,Accessories,Phone Case,36.31,1,Paid,,,,,,,0,100597.0,Produkta brāķis,2023-12-04
+100060.0,,C0048,Accessories,Phone Case,31.47,2,Paid,,,,,,,0,,Nav sūdzību,NaT
+100048.0,2023-11-17,C0068,Electronics,Laptop X,1571.0,1,Pending,,,,,,,0,,Nav sūdzību,2023-11-17
+101122.0,2023-12-14,C0082,Electronics,Smartphone Z,700.68,1,Pending,,,,,,,0,,Nav sūdzību,2023-12-14
+101080.0,,C0158,Accessories,Accessory Bundle,61.58,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+100987.0,,C0028,Smart Home,NordLock Pro,188.0,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+100970.0,2023-12-11,C0001,Electronics,NoiseCancel Headphones,164.02,1,Paid,,,,,,,0,,Nav sūdzību,2023-12-11
+101157.0,2023-12-10,C0224,Accessories,Accessory Bundle,47.39,1,Paid,,,,,,,0,101157.0,Lietotnes/Savienojuma kļūda,2023-12-10
+101145.0,2023-11-30,C0008,Electronics,Tablet A,355.2,1,Paid,,,,,,,0,,Nav sūdzību,2023-11-30
+100759.0,2023-12-07,C0004,Electronics,Smartphone Z,1086.15,2,Paid,,,,,,,0,,Nav sūdzību,2023-12-07
+100979.0,,C0003,Accessories,Phone Case,13.89,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+100313.0,2023-11-26,C0003,Electronics,Smartphone Z,955.3,1,Paid,,,,,,,0,,Nav sūdzību,2023-11-26
+100092.0,,C0001,Electronics,TV Pro,1264.2,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+100722.0,2023-12-06,C0007,Accessories,USB-C Cable,12.52,4,Paid,,,,,,,0,,Nav sūdzību,2023-12-06
+100735.0,2023-12-06,C0001,Electronics,NoiseCancel Headphones,206.95,1,Paid,,,,,,,0,,Nav sūdzību,2023-12-06
+100812.0,2023-12-08,C0006,Electronics,Tablet A,470.11,2,Paid,R000042,TX-100812,2023-12-18,940.22,Processed,100812.0,1,,Nav sūdzību,2023-12-08
+101125.0,2023-12-14,C0023,Smart Home,NordLock Pro,226.29,1,Paid,,,,,,,0,,Nav sūdzību,2023-12-14
+100850.0,2023-12-09,C0005,Accessories,Screen Protector,6.8,2,Paid,,,,,,,0,,Nav sūdzību,2023-12-09
+100384.0,2023-11-28,C0051,Electronics,Tablet A,770.0,1,Paid,,,,,,,0,100384.0,Lietotnes/Savienojuma kļūda,2023-11-28
+100018.0,2023-11-15,C0009,Accessories,Wireless Mouse,57.97,1,Paid,,,,,,,0,,Nav sūdzību,2023-11-15
+100956.0,,C0014,Electronics,Tablet A,743.7,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+101077.0,2023-12-13,C0001,Accessories,Charger,46.12,2,Paid,,,,,,,0,,Nav sūdzību,2023-12-13
+101067.0,,C0003,Accessories,Charger,26.56,4,Paid,,,,,,,0,,Nav sūdzību,NaT
+100988.0,2023-12-11,C0001,Electronics,Smartphone Z,883.0,1,Paid,,,,,,,0,,Nav sūdzību,2023-12-11
+101015.0,,C0001,Smart Home,NordLock Pro,232.09,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+101161.0,,C0063,Electronics,Smartphone Z,1077.99,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+101135.0,,C0004,Smart Home,NordCam Mini,79.06,2,Pending,,,,,,,0,,Nav sūdzību,NaT
+100126.0,2023-11-20,C0023,Electronics,Tablet A,511.14,1,Paid,,,,,,,0,,Nav sūdzību,2023-11-20
+100512.0,2023-12-01,C0042,Electronics,TV Pro,1179.0,1,Paid,,,,,,,0,100512.0,Produkta brāķis,2023-12-01
+100077.0,2023-11-18,C0004,Accessories,Wireless Mouse,57.3,1,Paid,,,,,,,0,,Nav sūdzību,2023-11-18
+100931.0,,C0049,Electronics,Tablet A,554.07,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+100142.0,,C0004,Electronics,Tablet A,599.07,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+100586.0,,C0001,Electronics,Smartphone Z,860.95,1,Failed,,,,,,,0,,Nav sūdzību,NaT
+100819.0,2023-12-08,C0087,Smart Home,NordPlug,17.09,1,Paid,,,,,,,0,,Nav sūdzību,2023-12-08
+100788.0,,C0151,Accessories,USB-C Cable,8.71,2,Paid,,,,,,,0,,Nav sūdzību,NaT
+100556.0,2023-12-03,C0005,Electronics,Laptop X,1382.75,1,Paid,,,,,,,0,,Nav sūdzību,2023-12-03
+101057.0,2023-12-13,C0004,Smart Home,NordLock Pro,223.76,1,Paid,R000043,TX-101057,2023-12-22,223.76,Processed,101057.0,1,,Nav sūdzību,2023-12-13
+100016.0,2023-11-15,C0023,Electronics,TV Pro,1449.46,1,Paid,,,,,,,0,,Nav sūdzību,2023-11-15
+100436.0,2023-11-30,C0001,Electronics,Smartphone Z,759.36,1,Failed,,,,,,,0,,Nav sūdzību,2023-11-30
+100499.0,2023-12-01,C0068,Electronics,Tablet A,461.35,1,Paid,,,,,,,0,,Nav sūdzību,2023-12-01
+100620.0,,C0013,Accessories,Charger,30.37,2,Pending,,,,,,,0,,Nav sūdzību,NaT
+100451.0,2023-11-30,C0001,Electronics,Laptop X,1369.47,1,Failed,,,,,,,0,,Nav sūdzību,2023-11-30
+100767.0,2023-12-07,C0028,Accessories,Phone Case,11.57,4,Paid,,,,,,,0,100767.0,Produkta brāķis,2023-12-07
+100036.0,2023-11-16,C0063,Accessories,Laptop Sleeve,26.31,1,Pending,,,,,,,0,,Nav sūdzību,2023-11-16
+100948.0,2023-12-11,C0013,Electronics,Tablet A,635.0,1,Paid,,,,,,,0,,Nav sūdzību,2023-12-11
+100982.0,2023-12-11,C0009,Electronics,Tablet A,646.0,1,Paid,,,,,,,0,,Nav sūdzību,2023-12-11
+100242.0,2023-11-24,C0276,Smart Home,NordLock Pro,205.21,1,Paid,,,,,,,0,,Nav sūdzību,2023-11-24
+100530.0,2023-12-02,C0005,Accessories,USB-C Cable,18.78,1,Paid,,,,,,,0,,Nav sūdzību,2023-12-02
+100344.0,2023-11-27,C0013,Electronics,Tablet A,691.81,1,Paid,,,,,,,0,,Nav sūdzību,2023-11-27
+100887.0,,C0001,Accessories,USB-C Cable,14.0,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+100507.0,2023-12-01,C0196,Electronics,Tablet A,376.91,1,Paid,,,,,,,0,,Nav sūdzību,2023-12-01
+101190.0,2023-11-27,C0001,Accessories,Phone Case,12.21,2,Paid,,,,,,,0,,Nav sūdzību,2023-11-27
+100216.0,2023-11-23,C0006,Smart Home,NordLock Pro,218.7,1,Paid,,,,,,,0,,Nav sūdzību,2023-11-23
+100209.0,2023-11-23,C0007,Accessories,USB-C Cable,13.23,1,Paid,,,,,,,0,,Nav sūdzību,2023-11-23
+100946.0,2023-12-11,C0052,Accessories,USB-C Cable,16.38,1,Paid,,,,,,,0,,Nav sūdzību,2023-12-11
+100065.0,2023-11-17,C0039,Accessories,Phone Case,30.02,2,Paid,,,,,,,0,,Nav sūdzību,2023-11-17
+100011.0,2023-11-15,C0002,Electronics,Laptop X,1491.63,1,Paid,,,,,,,0,,Nav sūdzību,2023-11-15
+100253.0,2023-11-24,C0294,Accessories,Wireless Mouse,25.96,1,Paid,,,,,,,0,,Nav sūdzību,2023-11-24
+100604.0,2023-12-04,C0001,Electronics,Tablet A,327.65,1,Paid,,,,,,,0,,Nav sūdzību,2023-12-04
+100806.0,,C0001,Electronics,NoiseCancel Headphones,333.3,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+100315.0,2023-11-26,C0001,Smart Home,NordLock Pro,247.46,1,Paid,R000044,100315,2023-11-29,247.46,Processed,100315.0,1,,Nav sūdzību,2023-11-26
+100519.0,,C0001,Accessories,USB-C Cable,9.35,3,Paid,,,,,,,0,,Nav sūdzību,NaT
+100466.0,2023-11-30,C0002,Electronics,Smartphone Z,916.13,1,Paid,,,,,,,0,,Nav sūdzību,2023-11-30
+100932.0,2023-12-11,C0132,Accessories,USB-C Cable,7.4,3,Paid,,,,,,,0,,Nav sūdzību,2023-12-11
+100964.0,,C0003,Smart Home,NordLock Pro,227.48,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+100843.0,,C0006,Accessories,Accessory Bundle,27.11,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+100368.0,2023-11-28,C0029,Smart Home,NordLock Pro,231.33,1,Paid,,,,,,,0,,Nav sūdzību,2023-11-28
+100146.0,,C0001,Accessories,Screen Protector,12.09,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+100363.0,2023-11-28,C0020,Electronics,NoiseCancel Headphones,263.87,1,Paid,,,,,,,0,100363.0,Piegāde,2023-11-28
+100631.0,2023-12-04,C0002,Electronics,NoiseCancel Headphones,328.0,1,Paid,,,,,,,0,,Nav sūdzību,2023-12-04
+100091.0,,C0001,Accessories,Laptop Sleeve,16.45,3,Paid,,,,,,,0,,Nav sūdzību,NaT
+100322.0,2023-11-27,C0011,Electronics,Laptop X,1704.39,1,Paid,,,,,,,0,,Nav sūdzību,2023-11-27
+100186.0,,C0041,Electronics,NoiseCancel Headphones,191.23,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+100925.0,2023-12-10,C0003,Accessories,Wireless Mouse,51.07,1,Pending,,,,,,,0,,Nav sūdzību,2023-12-10
+100869.0,,C0056,Smart Home,NordLock Pro,192.27,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+100757.0,,C0047,Electronics,NoiseCancel Headphones,229.65,2,Paid,,,,,,,0,,Nav sūdzību,NaT
+100120.0,,C0138,Electronics,Tablet A,374.99,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+101063.0,2023-12-13,C0037,Accessories,Charger,36.0,4,Paid,,,,,,,0,,Nav sūdzību,2023-12-13
+100841.0,,C0016,Smart Home,NordLock Pro,224.32,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+100494.0,,C0059,Accessories,Wireless Mouse,46.58,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+100444.0,2023-11-30,C0001,Accessories,Wireless Mouse,49.02,1,Paid,,,,,,,0,,Nav sūdzību,2023-11-30
+100339.0,,C0002,Smart Home,NordTherm,142.29,2,Paid,,,,,,,0,,Nav sūdzību,NaT
+101109.0,2023-12-14,C0183,Smart Home,NordLock Pro,228.56,1,Paid,R000045,101109,2023-12-19,228.56,Processed,101109.0,1,101109.0,Produkta brāķis,2023-12-14
+100225.0,2023-11-24,C0240,Accessories,Screen Protector,14.17,2,Paid,,,,,,,0,,Nav sūdzību,2023-11-24
+100020.0,2023-11-15,C0001,Electronics,Laptop X,1645.89,1,Paid,,,,,,,0,,Nav sūdzību,2023-11-15
+101097.0,,C0276,Accessories,Phone Case,22.51,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+100419.0,,C0002,Electronics,Laptop X,1724.19,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+101100.0,2023-12-14,C0007,Accessories,Charger,19.64,1,Paid,,,,,,,0,,Nav sūdzību,2023-12-14
+100992.0,,C0001,Accessories,Wireless Mouse,50.82,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+100386.0,,C0069,Smart Home,NordPlug,21.62,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+100930.0,2023-12-10,C0037,Accessories,Phone Case,30.63,1,Paid,,,,,,,0,,Nav sūdzību,2023-12-10
+100453.0,2023-11-30,C0005,Electronics,NoiseCancel Headphones,247.94,1,Paid,,,,,,,0,100453.0,Produkta brāķis,2023-11-30
+100265.0,2023-11-25,C0001,Electronics,Tablet A,662.2,1,Paid,,,,,,,0,,Nav sūdzību,2023-11-25
+101065.0,2023-12-13,C0001,Smart Home,NordLock Pro,237.74,1,Paid,R000046,Order 101065,2023-12-18,237.74,Processed,101065.0,1,,Nav sūdzību,2023-12-13
+100161.0,,C0318,Electronics,Smartphone Z,852.83,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+100111.0,2023-11-19,C0188,Electronics,NoiseCancel Headphones,298.0,1,Paid,,,,,,,0,,Nav sūdzību,2023-11-19
+100304.0,,C0008,Electronics,Laptop X,1545.42,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+100049.0,,C0003,Accessories,Laptop Sleeve,24.43,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+100510.0,,C0001,Accessories,Laptop Sleeve,30.16,2,Paid,,,,,,,0,,Nav sūdzību,NaT
+100019.0,2023-11-15,C0034,Smart Home,NordLock Pro,181.24,2,Paid,,,,,,,0,,Nav sūdzību,2023-11-15
+101068.0,2023-12-13,C0052,Electronics,Laptop X,1467.19,1,Paid,,,,,,,0,101068.0,Produkta brāķis,2023-12-13
+100935.0,,C0002,Accessories,USB-C Cable,15.08,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+101115.0,2023-12-14,C0307,Electronics,NoiseCancel Headphones,222.14,1,Paid,,,,,,,0,101115.0,Cits,2023-12-14
+100886.0,,C0016,Accessories,Screen Protector,6.71,3,Paid,,,,,,,0,,Nav sūdzību,NaT
+100276.0,,C0098,Accessories,Wireless Mouse,47.71,2,Paid,,,,,,,0,,Nav sūdzību,NaT
+100115.0,,C0005,Accessories,Screen Protector,9.78,3,Paid,,,,,,,0,,Nav sūdzību,NaT
+100728.0,2023-12-06,C0052,Smart Home,NordLock Pro,209.66,1,Paid,,,,,,,0,100728.0,Produkta brāķis,2023-12-06
+101156.0,2023-11-24,C0002,Electronics,Tablet A,386.12,1,Paid,,,,,,,0,,Nav sūdzību,2023-11-24
+100002.0,2023-11-15,C0002,Electronics,Tablet A,488.25,1,Paid,,,,,,,0,,Nav sūdzību,2023-11-15
+100228.0,2023-11-24,C0147,Electronics,Smartphone Z,1055.64,1,Paid,,,,,,,0,,Nav sūdzību,2023-11-24
+100134.0,,C0001,Electronics,Smartphone Z,970.64,1,Pending,,,,,,,0,,Nav sūdzību,NaT
+100249.0,,C0060,Electronics,NoiseCancel Headphones,315.48,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+100497.0,,C0224,Electronics,TV Pro,1627.15,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+100961.0,2023-12-11,C0003,Electronics,Smartphone Z,832.85,1,Paid,,,,,,,0,,Nav sūdzību,2023-12-11
+100336.0,2023-11-27,C0002,Accessories,Charger,22.85,4,Paid,,,,,,,0,,Nav sūdzību,2023-11-27
+100440.0,,C0012,Accessories,USB-C Cable,12.61,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+101167.0,2023-12-11,C0001,Electronics,TV Pro,969.19,1,Paid,,,,,,,0,,Nav sūdzību,2023-12-11
+100813.0,2023-12-08,C0010,Electronics,NoiseCancel Headphones,150.46,2,Paid,,,,,,,0,100813.0,Produkta brāķis,2023-12-08
+101052.0,,C0137,Accessories,Screen Protector,10.44,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+100442.0,2023-11-30,C0001,Electronics,NoiseCancel Headphones,153.0,2,Paid,,,,,,,0,,Nav sūdzību,2023-11-30
+101163.0,,C0047,Electronics,Smartphone Z,712.48,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+101114.0,,C0002,Accessories,Laptop Sleeve,32.82,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+100839.0,,C0011,Accessories,Phone Case,24.43,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+101048.0,2023-12-13,C0014,Smart Home,NordLock Pro,183.01,1,Paid,,,,,,,0,,Nav sūdzību,2023-12-13
+101104.0,2023-12-14,C0013,Accessories,Accessory Bundle,83.54,1,Paid,,,,,,,0,,Nav sūdzību,2023-12-14
+101150.0,,C0040,Smart Home,NordLock Pro,185.28,2,Paid,,,,,,,0,,Nav sūdzību,NaT
+100243.0,2023-11-24,C0026,Electronics,Laptop X,1554.67,1,Paid,,,,,,,0,,Nav sūdzību,2023-11-24
+100684.0,2023-12-05,C0001,Electronics,Tablet A,587.1,1,Paid,,,,,,,0,,Nav sūdzību,2023-12-05
+100658.0,2023-12-05,C0002,Electronics,NoiseCancel Headphones,151.84,1,Paid,,,,,,,0,,Nav sūdzību,2023-12-05
+100505.0,2023-12-01,C0007,Electronics,TV Pro,1619.06,1,Paid,,,,,,,0,,Nav sūdzību,2023-12-01
+100409.0,2023-11-29,C0001,Smart Home,NordPlug,21.0,1,Paid,,,,,,,0,,Nav sūdzību,2023-11-29
+101199.0,,C0001,Electronics,NoiseCancel Headphones,182.17,2,Paid,,,,,,,0,,Nav sūdzību,NaT
+101106.0,2023-12-14,C0008,Electronics,Tablet A,635.65,1,Paid,,,,,,,0,,Nav sūdzību,2023-12-14
+101062.0,2023-12-13,C0019,Electronics,Smartphone Z,799.82,1,Failed,,,,,,,0,,Nav sūdzību,2023-12-13
+100141.0,2023-11-21,C0007,Accessories,Phone Case,23.73,1,Paid,,,,,,,0,,Nav sūdzību,2023-11-21
+100547.0,2023-12-02,C0038,Accessories,Charger,24.9,2,Paid,,,,,,,0,,Nav sūdzību,2023-12-02
+100901.0,,C0036,Accessories,Phone Case,23.08,3,Paid,,,,,,,0,,Nav sūdzību,NaT
+100638.0,,C0005,Accessories,Phone Case,19.42,1,Paid,,,,,,,0,,Nav sūdzību,NaT
+100689.0,2023-12-06,C0166,Electronics,Smartphone Z,963.43,1,Paid,,,,,,,0,100689.0,Produkta brāķis,2023-12-06
+100622.0,,C0135,Accessories,Accessory Bundle,66.41,2,Paid,,,,,,,0,,Nav sūdzību,NaT
+100851.0,2023-12-09,C0022,Accessories,USB-C Cable,15.85,3,Pending,,,,,,,0,,Nav sūdzību,2023-12-09
+100584.0,2023-12-03,C0013,Electronics,Tablet A,524.49,2,Paid,,,,,,,0,,Nav sūdzību,2023-12-03
+100333.0,2023-11-27,C0165,Smart Home,NordTherm,83.95,1,Failed,,,,,,,0,,Nav sūdzību,2023-11-27
+101116.0,2023-12-14,C0002,Accessories,Screen Protector,9.56,1,Paid,R000047,Order 101116,2023-12-17,9.56,Processed,101116.0,1,,Nav sūdzību,2023-12-14
+101105.0,2023-12-14,C0218,Smart Home,NordLock Pro,221.88,1,Paid,,,,,,,0,101105.0,Lietotnes/Savienojuma kļūda,2023-12-14
